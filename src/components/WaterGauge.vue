@@ -1,0 +1,6 @@
+<script setup>
+import {ref} from 'vue'
+import {chapters,slug} from '../data/system'
+defineProps({active:Number,level:Number,depth:Number,database:Boolean});defineEmits(['navigate','about','database']);const expanded=ref(false)
+</script>
+<template><aside class="water-gauge" :class="{expanded}"><div class="gauge-head mono"><span>R / OS</span><button @click="$emit('about')">SYSTEM INFO ↗</button></div><div class="gauge-rule"><span class="gauge-fill" :style="{height:`${Math.min(level,100)}%`}"></span></div><div class="gauge-chapters"><button v-for="(c,i) in chapters" :key="c" @click="$emit('navigate',i);expanded=false" :class="{current:active===i&&!database}"><span>{{String(Math.round(i*40/12)).padStart(2,'0')}}</span><i></i><span>{{c}}</span></button></div><div class="gauge-bottom mono"><span>DEPTH −{{depth.toFixed(1)}} M</span><strong>LEVEL {{Math.round(level)}}%</strong><button @click="$emit('database')">{{database?'CURATED JOURNEY ↗':'OPEN DATABASE ↗'}}</button></div><button class="mobile-state mono" @click="expanded=!expanded" :aria-expanded="expanded"><span>{{database?'DATABASE':chapters[active]}}</span><span>−{{depth.toFixed(1)}} M / {{Math.round(level)}}% {{expanded?'−':'+'}}</span></button></aside></template>

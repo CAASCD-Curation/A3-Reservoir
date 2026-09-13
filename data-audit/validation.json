@@ -1,0 +1,21 @@
+{
+  "images": 91,
+  "function": 38,
+  "landscape": 26,
+  "low": "1",
+  "high": "6",
+  "lowWidth": 933,
+  "highWidth": 147,
+  "sidebars": "fixed",
+  "textLayers": true,
+  "chronology": true,
+  "spherePicking": true,
+  "dredge": 5,
+  "relation": 2,
+  "errors": [],
+  "prototypeOnly": true,
+  "axisEndpoints": 6,
+  "scrollBefore": 1850,
+  "scrollAfter": 1850,
+  "importerReproducedIdenticalData": true
+}
