@@ -1,0 +1,16 @@
+<script setup>
+import {ref,watch,nextTick} from 'vue'
+import FilterPanel from './components/FilterPanel.vue'
+import ReservoirControls from './components/ReservoirControls.vue'
+import ArchiveViews from './components/ArchiveViews.vue'
+import ArchiveDetail from './components/ArchiveDetail.vue'
+import AboutSystem from './components/AboutSystem.vue'
+import RelationsPanel from './components/RelationsPanel.vue'
+import {archive,filtered,position,source,keywords,view,level,reset} from './composables/useArchive'
+const selected=ref(null),about=ref(false),center=ref(null),leftOpen=ref(false),rightOpen=ref(false)
+const views=[['GRID','网格'],['FLOW','流动'],['LAYER','分层'],['MAP','坐标关系'],['DEPTH','三维蓄水池']]
+function release(o){selected.value=o}
+function relations(){center.value.querySelector('#relations').scrollIntoView({behavior:'smooth',block:'start'});rightOpen.value=false}
+watch([view,position,source,keywords],async()=>{await nextTick();center.value.scrollTo({top:0});leftOpen.value=false})
+</script>
+<template><div class="workspace" :class="{reading:selected||about}"><a href="#archive-content" class="skip-link">跳至档案 / SKIP TO ARCHIVE</a><div class="top-water" :style="{width:level+'%'}"></div><div class="mobile-toolbar"><button @click="leftOpen=!leftOpen;rightOpen=false">筛选 / FILTER {{leftOpen?'−':'+'}}</button><span>R / 蓄水池</span><button @click="rightOpen=!rightOpen;leftOpen=false">控制 / CONTROL {{rightOpen?'−':'+'}}</button></div><aside class="left-sidebar" :class="{open:leftOpen}" aria-label="分类与打捞"><FilterPanel/></aside><main class="center-scroll" ref="center" id="archive-content" :inert="!!selected||about" tabindex="-1"><header class="archive-heading"><p class="mono">RESEARCH INDEX / 研究索引 <span>VOL. 02 — {{archive.length}} IMAGES / 图像</span></p><h2>THE RESERVOIR<span>蓄水档案</span></h2><div class="heading-caption"><p>不同的容器，相遇的机制。<small>DIFFERENT VESSELS. SHARED MECHANISMS.</small></p><div class="result-number" aria-live="polite"><strong>{{String(filtered.length).padStart(3,'0')}}</strong><span>OBJECTS<br>当前档案</span></div></div></header><div class="view-bar" role="group" aria-label="观看方式"><button v-for="[v,cn] in views" :key="v" @click="view=v" :class="{selected:view===v}" :aria-pressed="view===v"><span>{{v}}</span><small>{{cn}}</small></button></div><div class="query-line mono"><span>{{position||'ALL POSITIONS / 全部分类'}}{{source?' × '+source:''}}{{keywords.length?' × '+keywords.join(' ∩ '):''}}</span><button v-if="position||source||keywords.length" @click="reset">重置 / RESET ↺</button></div><ArchiveViews v-if="filtered.length" :objects="filtered" :paused="!!selected||about" @release="release"/><div v-else class="empty-query"><h3>RESERVOIR EMPTY<span>此处暂空</span></h3><p>当前条件下没有可展示的图片档案。<small>NO IMAGE ARCHIVES FOR THIS SELECTION.</small></p><button @click="reset">RESET FILTER / 重置筛选 ↺</button></div><RelationsPanel @release="release"/><footer class="archive-footer mono">RESERVOIR OPERATING SYSTEM / 蓄水池策展研究系统</footer></main><aside class="right-sidebar" :class="{open:rightOpen}" aria-label="密度与动作"><ReservoirControls @about="about=true" @relations="relations"/></aside><ArchiveDetail v-if="selected" :object="selected" @close="selected=null" @release="release"/><AboutSystem v-if="about" @close="about=false"/></div></template>

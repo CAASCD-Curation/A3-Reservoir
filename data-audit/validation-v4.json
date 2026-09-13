@@ -1,0 +1,23 @@
+{
+  "records": 85,
+  "keywords": 209,
+  "idsValid": true,
+  "translationsComplete": true,
+  "countsAndRanking": true,
+  "keywordCards": true,
+  "detailFocus": true,
+  "conceptRemoved": true,
+  "mobileOverflow": false,
+  "errors": [],
+  "excelRowsAndImageBytesVerified": 85,
+  "sixCategoryCounts": [
+    14,
+    15,
+    13,
+    15,
+    13,
+    15
+  ],
+  "chronologyVerified": true,
+  "mapAndDepthVerified": true
+}

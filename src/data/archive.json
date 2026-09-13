@@ -1,0 +1,5102 @@
+[
+  {
+    "id": "R-A-1",
+    "matchKey": "1-1",
+    "title": "地下水宫 Basilica Cistern",
+    "description": "大型柱廊式地下水库，接受引水系统来水，为宫殿及城市提供备用容量",
+    "year": null,
+    "placeAndPeriod": "伊斯坦布尔，6世纪",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "引水",
+      "地下",
+      "供水",
+      "备用"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-5",
+      "R-A-13",
+      "R-A-9",
+      "R-A-6",
+      "R-A-14"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 3,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 1,
+      "来源": "基础设施 Infrastructure",
+      "案例": "地下水宫 Basilica Cistern",
+      "精短标签": "引水｜地下｜供水｜备用",
+      "地点／年代": "伊斯坦布尔，6世纪",
+      "原型价值": "大型柱廊式地下水库，接受引水系统来水，为宫殿及城市提供备用容量",
+      "主动作": "HOLD\n",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-1.jpg",
+    "image": "images/1-1.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-1.webp",
+    "actionEligible": true,
+    "sortYear": 500,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：引水 / 供水 / HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-2",
+    "matchKey": "1-2",
+    "title": "凯鲁万阿格拉比蓄水池 Aghlabid Basins",
+    "description": "阿拔斯王朝时期的地下水库，通过输水渠接收泉水，拱券与柱体承托池顶，并可从顶部开口取水",
+    "year": null,
+    "placeAndPeriod": "公元862年，阿格拉比王朝时期",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "GATHER"
+    ],
+    "keywords": [
+      "集雨",
+      "沉淀",
+      "露天",
+      "公用"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-3",
+      "R-A-8",
+      "R-A-7",
+      "R-A-4",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 4,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "基础设施 Infrastructure",
+      "案例": "凯鲁万阿格拉比蓄水池 Aghlabid Basins",
+      "精短标签": "集雨｜沉淀｜露天｜公用",
+      "地点／年代": "公元862年，阿格拉比王朝时期",
+      "原型价值": "阿拔斯王朝时期的地下水库，通过输水渠接收泉水，拱券与柱体承托池顶，并可从顶部开口取水",
+      "主动作": "HOLD",
+      "次动作": "GATHER"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-2.png",
+    "image": "images/1-2.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-2.webp",
+    "actionEligible": true,
+    "sortYear": 862,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：集雨 / HOLD / GATHER",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-3",
+    "matchKey": "1-3",
+    "title": "Palombaro Lungo 大水窖",
+    "description": "岩体中开凿的巨大公共水窖，收集屋顶、街道及坡地来水",
+    "year": null,
+    "placeAndPeriod": "意大利马泰拉",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "GATHER"
+    ],
+    "keywords": [
+      "集雨",
+      "岩凿",
+      "地下",
+      "公用"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-7",
+      "R-A-4",
+      "R-A-2",
+      "R-A-8",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 5,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Palombaro Lungo 大水窖",
+      "精短标签": "集雨｜岩凿｜地下｜公用\n",
+      "地点／年代": "意大利马泰拉",
+      "原型价值": "岩体中开凿的巨大公共水窖，收集屋顶、街道及坡地来水",
+      "主动作": "HOLD",
+      "次动作": "GATHER"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-3.png",
+    "image": "images/1-3.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-3.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：集雨 / HOLD / GATHER",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-4",
+    "matchKey": "1-4",
+    "title": "马泰拉 Sassi 民居水窖网络",
+    "description": "单个住宅水窖与街区公共水窖串联，把建筑表面转化为集水面",
+    "year": null,
+    "placeAndPeriod": "意大利马泰拉",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "集雨",
+      "地下",
+      "分布",
+      "家用"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-7",
+      "R-A-8",
+      "R-A-3",
+      "R-A-2",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 6,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 4,
+      "来源": "民居／城市系统 Architecture",
+      "案例": "马泰拉 Sassi 民居水窖网络",
+      "精短标签": "集雨｜地下｜分布｜家用",
+      "地点／年代": "意大利马泰拉",
+      "原型价值": "单个住宅水窖与街区公共水窖串联，把建筑表面转化为集水面",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-4.png",
+    "image": "images/1-4.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-4.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：集雨 / GATHER / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-5",
+    "matchKey": "1-5",
+    "title": "伊朗 Ab Anbar 地下水库",
+    "description": "深埋蓄水池配合穹顶、取水阶梯和风塔，减少蒸发并保持水温",
+    "year": null,
+    "placeAndPeriod": "伊朗，传统类型",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "引水",
+      "地下",
+      "降温",
+      "保水"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-1",
+      "R-A-9",
+      "R-A-6",
+      "R-A-14",
+      "R-A-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 7,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "基础设施 Infrastructure",
+      "案例": "伊朗 Ab Anbar 地下水库",
+      "精短标签": "引水｜地下｜降温｜保水",
+      "地点／年代": "伊朗，传统类型",
+      "原型价值": "深埋蓄水池配合穹顶、取水阶梯和风塔，减少蒸发并保持水温",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-5.png",
+    "image": "images/1-5.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-5.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：引水 / HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-6",
+    "matchKey": "1-6",
+    "title": "芍陂／安丰塘",
+    "description": "利用低洼地与堤坝形成区域尺度水体，把季节性河水储为农业灌溉资源，并长期维持灌区生产。它补足你们数据库里的中国传统大型储水原型。",
+    "year": null,
+    "placeAndPeriod": "中国安徽／始建于春秋时期",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "拦蓄",
+      "陂塘",
+      "灌溉",
+      "跨季"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-13",
+      "R-A-9",
+      "R-A-5",
+      "R-A-14",
+      "R-A-10"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 8,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 6,
+      "来源": "农业水利 Infrastructure",
+      "案例": "芍陂／安丰塘",
+      "精短标签": "拦蓄｜陂塘｜灌溉｜跨季",
+      "地点／年代": "中国安徽／始建于春秋时期",
+      "原型价值": "利用低洼地与堤坝形成区域尺度水体，把季节性河水储为农业灌溉资源，并长期维持灌区生产。它补足你们数据库里的中国传统大型储水原型。",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-6.jpg",
+    "image": "images/1-6.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-6.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：灌溉 / HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-7",
+    "matchKey": "1-7",
+    "title": "甘肃“121”雨水集流工程",
+    "description": "以农户为单位配置约100㎡集流面和两眼水窖，把零散降雨变成生活及农业储备用水。甘肃省水利厅资料显示，该工程曾建设数十万眼水窖并缓解大量农村人口饮水困难。",
+    "year": null,
+    "placeAndPeriod": "中国甘肃、宁夏等地／传统至现代",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "EVERYDAY"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "集雨",
+      "地下",
+      "家用",
+      "保障"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-4",
+      "R-A-8",
+      "R-A-3",
+      "R-A-2",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 9,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "日常／民生 Everyday",
+      "案例": "甘肃“121”雨水集流工程",
+      "精短标签": "集雨｜地下｜家用｜保障",
+      "地点／年代": "中国甘肃、宁夏等地／传统至现代",
+      "原型价值": "以农户为单位配置约100㎡集流面和两眼水窖，把零散降雨变成生活及农业储备用水。甘肃省水利厅资料显示，该工程曾建设数十万眼水窖并缓解大量农村人口饮水困难。",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-7.jpg",
+    "image": "images/1-7.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-7.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：集雨 / GATHER / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-8",
+    "matchKey": "1-8",
+    "title": "百慕大屋顶—水窖系统",
+    "description": "白色阶梯状屋面收集雨水，并导入住宅地下水窖保存。",
+    "year": null,
+    "placeAndPeriod": "百慕大／传统至现代",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "屋面",
+      "集雨",
+      "家用",
+      "供水"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-7",
+      "R-A-4",
+      "R-A-3",
+      "R-A-2",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 10,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 8,
+      "来源": "建筑／日常 Architecture",
+      "案例": "百慕大屋顶—水窖系统",
+      "精短标签": "屋面｜集雨｜家用｜供水",
+      "地点／年代": "百慕大／传统至现代",
+      "原型价值": "白色阶梯状屋面收集雨水，并导入住宅地下水窖保存。",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-8.jpg",
+    "image": "images/1-8.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-8.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：屋面 / 集雨 / 供水 / GATHER / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-9",
+    "matchKey": "1-9",
+    "title": "纽约木质屋顶水箱",
+    "description": "将水抽至建筑屋顶储存，再依靠重力供应高层空间。",
+    "year": null,
+    "placeAndPeriod": "美国纽约／19世纪后期至今",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "抽升",
+      "高位",
+      "重力",
+      "分布"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-10",
+      "R-A-6",
+      "R-A-5",
+      "R-A-14",
+      "R-A-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 11,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "建筑／基础设施 Architecture",
+      "案例": "纽约木质屋顶水箱",
+      "精短标签": "抽升｜高位｜重力｜分布",
+      "地点／年代": "美国纽约／19世纪后期至今",
+      "原型价值": "将水抽至建筑屋顶储存，再依靠重力供应高层空间。",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-9.jpg",
+    "image": "images/1-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-9.webp",
+    "actionEligible": true,
+    "sortYear": 1800,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-10",
+    "matchKey": "1-10",
+    "title": "科威特水塔群",
+    "description": "多座高位水塔共同构成城市储水和压力调节网络。",
+    "year": null,
+    "placeAndPeriod": "科威特／1960—1970年代",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "高位",
+      "蓄水",
+      "稳压",
+      "地标"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-9",
+      "R-A-6",
+      "R-A-5",
+      "R-A-14",
+      "R-A-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 12,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "基础设施／城市 Infrastructure",
+      "案例": "科威特水塔群",
+      "精短标签": "高位｜蓄水｜稳压｜地标",
+      "地点／年代": "科威特／1960—1970年代",
+      "原型价值": "多座高位水塔共同构成城市储水和压力调节网络。",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-10.png",
+    "image": "images/1-10.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-10.webp",
+    "actionEligible": true,
+    "sortYear": 1960,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-11",
+    "matchKey": "1-11",
+    "title": "Dholavira 石砌蓄水系统",
+    "description": "城市利用一系列石砌蓄水池储存当地有限水源，为干旱岛状环境中的长期聚落提供储备。把你原来26、27两条合成一条，内部可展示水库、井、排水三个细节。",
+    "year": null,
+    "placeAndPeriod": "印度古吉拉特邦卡奇地区，约公元前2650年起",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "集雨",
+      "引水",
+      "石筑",
+      "跨季"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-12",
+      "R-A-8",
+      "R-A-7",
+      "R-A-4",
+      "R-A-3"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 13,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "城市基础设施 Infrastructure",
+      "案例": "Dholavira 石砌蓄水系统",
+      "精短标签": "集雨｜引水｜石筑｜跨季",
+      "地点／年代": "印度古吉拉特邦卡奇地区，约公元前2650年起",
+      "原型价值": "城市利用一系列石砌蓄水池储存当地有限水源，为干旱岛状环境中的长期聚落提供储备。把你原来26、27两条合成一条，内部可展示水库、井、排水三个细节。",
+      "历史性地下蓄水与城市供水": "高位、建筑和生活尺度储水",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-11.png",
+    "image": "images/1-11.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-11.webp",
+    "actionEligible": true,
+    "sortYear": -2650,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：引水 / 集雨 / GATHER / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-12",
+    "matchKey": "1-12",
+    "title": "Jhalra Baori 阶梯井",
+    "description": "地表形成浅碟状集水面，把极少的雨水引向中央地下池，盖顶则降低污染和蒸发。它是“用更大的集水面积喂养一个很小的储水核心”的典型原型。",
+    "year": null,
+    "placeAndPeriod": "印度拉贾斯坦邦杰伊瑟尔梅尔，传统类型",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "EVERYDAY"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "集雨",
+      "阶梯",
+      "补井",
+      "跨季"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-11",
+      "R-A-8",
+      "R-A-7",
+      "R-A-4",
+      "R-A-3"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 14,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "日常／民生 Everyday",
+      "案例": "Jhalra Baori 阶梯井",
+      "精短标签": "集雨｜阶梯｜补井｜跨季",
+      "地点／年代": "印度拉贾斯坦邦杰伊瑟尔梅尔，传统类型",
+      "原型价值": "地表形成浅碟状集水面，把极少的雨水引向中央地下池，盖顶则降低污染和蒸发。它是“用更大的集水面积喂养一个很小的储水核心”的典型原型。",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-12.png",
+    "image": "images/1-12.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-12.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：集雨 / GATHER / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-13",
+    "matchKey": "1-13",
+    "title": "Marina Barrage",
+    "description": "在城市河道入海口设置堤坝，将原本与海相连的水体转成淡水水库。它代表一种非常现代的储水方式：不是造一个池，而是给既有水域加一道边界，使其成为池。",
+    "year": null,
+    "placeAndPeriod": "新加坡／2008年",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "拦蓄",
+      "供水",
+      "调洪",
+      "复合"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-6",
+      "R-A-1",
+      "R-A-9",
+      "R-A-5",
+      "R-A-14"
+    ],
+    "sourceTitle": null,
+    "url": "https://www.pub.gov.sg/Public/Places-of-Interest/Marina-Barrage",
+    "excelRow": 15,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 13,
+      "来源": "城市基础设施 Infrastructure",
+      "案例": "Marina Barrage",
+      "精短标签": "拦蓄｜供水｜调洪｜复合",
+      "地点／年代": "新加坡／2008年",
+      "原型价值": "在城市河道入海口设置堤坝，将原本与海相连的水体转成淡水水库。它代表一种非常现代的储水方式：不是造一个池，而是给既有水域加一道边界，使其成为池。",
+      "出处/作者": "https://www.pub.gov.sg/Public/Places-of-Interest/Marina-Barrage",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-13.png",
+    "image": "images/1-13.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-13.webp",
+    "actionEligible": true,
+    "sortYear": 2008,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：供水 / HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-A-14",
+    "matchKey": "1-14",
+    "title": "Hoover Dam / Lake Mead",
+    "description": "现代巨型坝库。Lake Mead设计库容接近2895万英亩英尺，可承担供水、灌溉、洪水控制等长期区域储备，水库甚至可容纳科罗拉多河约两年的平均流量。。",
+    "year": null,
+    "placeAndPeriod": "美国科罗拉多河／1930年代",
+    "curatorialPosition": "FUNCTION PROTOTYPE",
+    "positionNumber": 1,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "大坝",
+      "超大容量",
+      "区域",
+      "跨年储备"
+    ],
+    "weight": 2,
+    "depth": 5,
+    "relatedIds": [
+      "R-A-9",
+      "R-A-6",
+      "R-A-5",
+      "R-A-13",
+      "R-A-10"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 16,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 14,
+      "来源": "城市基础设施 Infrastructure",
+      "案例": "Hoover Dam / Lake Mead",
+      "精短标签": "大坝｜超大容量｜区域｜跨年储备",
+      "地点／年代": "美国科罗拉多河／1930年代",
+      "原型价值": "现代巨型坝库。Lake Mead设计库容接近2895万英亩英尺，可承担供水、灌溉、洪水控制等长期区域储备，水库甚至可容纳科罗拉多河约两年的平均流量。。",
+      "出处/作者": " ",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "1-14.jpg",
+    "image": "images/1-14.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/1-14.webp",
+    "actionEligible": true,
+    "sortYear": 1930,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 1
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：HOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-B-1",
+    "matchKey": "2-1",
+    "title": "Rani ki Vav 王后阶井",
+    "description": "长轴阶梯逐层下降至井体，水位、雕刻、亭廊与身体移动被组织成连续序列",
+    "year": null,
+    "placeAndPeriod": "印度帕坦，11世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ARCHITECTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "轴线",
+      "下潜",
+      "雕刻",
+      "仪式"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-2",
+      "R-B-10",
+      "R-B-7",
+      "R-B-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 18,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 1,
+      "来源": "建筑／基础设施 Architecture / Infrastructure",
+      "案例": "Rani ki Vav 王后阶井",
+      "精短标签": "轴线、下潜、雕刻、仪式",
+      "地点／年代": "印度帕坦，11世纪",
+      "原型价值": "长轴阶梯逐层下降至井体，水位、雕刻、亭廊与身体移动被组织成连续序列",
+      "主动作": "HOLD 储存",
+      "次动作": "RELEASE 释放"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-1.png",
+    "image": "images/2-1.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-1.webp",
+    "actionEligible": true,
+    "sortYear": 1000,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-2",
+    "matchKey": "2-2",
+    "title": "Chand Baori 月亮水井",
+    "description": "三面密集阶梯围绕深井，适应季节水位变化，也形成巨大公共看台式空间",
+    "year": null,
+    "placeAndPeriod": "印度阿巴内里，约8—9世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "EVERYDAY"
+    ],
+    "actions": [],
+    "keywords": [
+      "阶梯",
+      "下潜",
+      "围合",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-3",
+      "R-B-19",
+      "R-B-16",
+      "R-B-10"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 19,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "建筑／日常 Architecture / Everyday",
+      "案例": "Chand Baori 月亮水井",
+      "精短标签": "阶梯、下潜、围合、公共",
+      "地点／年代": "印度阿巴内里，约8—9世纪",
+      "原型价值": "三面密集阶梯围绕深井，适应季节水位变化，也形成巨大公共看台式空间",
+      "主动作": "HOLD 储存",
+      "次动作": "THRESHOLD 临界"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-2.png",
+    "image": "images/2-2.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-2.webp",
+    "actionEligible": true,
+    "sortYear": 700,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-3",
+    "matchKey": "2-3",
+    "title": "Surya Kund 太阳水池",
+    "description": "神庙前的大型阶梯池布置众多小型神龛，水池成为进入太阳神庙前的仪式前场",
+    "year": null,
+    "placeAndPeriod": "印度莫德拉，11世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "阶梯",
+      "神圣",
+      "净化",
+      "前场"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-10",
+      "R-B-2",
+      "R-B-11",
+      "R-C-10",
+      "R-A-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 20,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "建筑／仪式 Architecture / Ritual",
+      "案例": "Surya Kund 太阳水池",
+      "精短标签": "阶梯、神圣、净化、前场",
+      "地点／年代": "印度莫德拉，11世纪",
+      "原型价值": "神庙前的大型阶梯池布置众多小型神龛，水池成为进入太阳神庙前的仪式前场",
+      "主动作": "HOLD 储存",
+      "次动作": "RELEASE 释放"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-3.jpg",
+    "image": "images/2-3.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-3.webp",
+    "actionEligible": true,
+    "sortYear": 1000,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-5",
+    "matchKey": "2-5",
+    "title": "Dowlat Abad Garden",
+    "description": "水池、水渠与高风塔共同组织夏季居住空间，并通过蒸发和气流产生降温效果",
+    "year": null,
+    "placeAndPeriod": "伊朗亚兹德，18世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "EVERYDAY"
+    ],
+    "actions": [],
+    "keywords": [
+      "降温",
+      "通风",
+      "水池",
+      "庭院"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-A-5",
+      "R-B-9",
+      "R-B-7",
+      "R-B-3",
+      "R-B-20"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 22,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "建筑／日常 Architecture / Everyday",
+      "案例": "Dowlat Abad Garden",
+      "精短标签": "降温、通风、水池、庭院",
+      "地点／年代": "伊朗亚兹德，18世纪",
+      "原型价值": "水池、水渠与高风塔共同组织夏季居住空间，并通过蒸发和气流产生降温效果",
+      "主动作": "RECIRCULATE 循环",
+      "次动作": "RELEASE 释放"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-5.jpg",
+    "image": "images/2-5.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-5.webp",
+    "actionEligible": true,
+    "sortYear": 1700,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-7",
+    "matchKey": "2-7",
+    "title": "Shalimar Gardens Lahore",
+    "description": "三层台地通过大型水池、渠道、瀑布和亭台连接；水既划分空间，也生成声音和凉爽环境",
+    "year": null,
+    "placeAndPeriod": "巴基斯坦拉合尔，1641—1642年",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "LANDSCAPE"
+    ],
+    "actions": [],
+    "keywords": [
+      "台地",
+      "层级",
+      "水声",
+      "游憩"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-18",
+      "R-B-5",
+      "R-B-3",
+      "R-B-20"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 26,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "建筑／景观 Architecture / Landscape",
+      "案例": "Shalimar Gardens Lahore",
+      "精短标签": "台地、层级、水声、游憩",
+      "地点／年代": "巴基斯坦拉合尔，1641—1642年",
+      "原型价值": "三层台地通过大型水池、渠道、瀑布和亭台连接；水既划分空间，也生成声音和凉爽环境",
+      "主动作": "RELEASE 释放",
+      "次动作": "HOLD 储存"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-7.jpg",
+    "image": "images/2-7.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-7.webp",
+    "actionEligible": true,
+    "sortYear": 1641,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-9",
+    "matchKey": "2-9",
+    "title": "Patio de la Acequia 水渠中庭",
+    "description": "长形水渠、水池、喷流和步道共同组织狭长庭院；水声覆盖外部噪声",
+    "year": null,
+    "placeAndPeriod": "西班牙赫内拉利费，13—14世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "LANDSCAPE"
+    ],
+    "actions": [],
+    "keywords": [
+      "围合",
+      "水声",
+      "轴线",
+      "游憩"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-7",
+      "R-B-2",
+      "R-B-18",
+      "R-B-10",
+      "R-B-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 28,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "建筑／景观 Architecture / Landscape",
+      "案例": "Patio de la Acequia 水渠中庭",
+      "精短标签": "围合、水声、轴线、游憩",
+      "地点／年代": "西班牙赫内拉利费，13—14世纪",
+      "原型价值": "长形水渠、水池、喷流和步道共同组织狭长庭院；水声覆盖外部噪声",
+      "主动作": "RELEASE 释放",
+      "次动作": "GATHER 汇聚"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-9.jpg",
+    "image": "images/2-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-9.webp",
+    "actionEligible": true,
+    "sortYear": 1200,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-10",
+    "matchKey": "2-10",
+    "title": "卡纳克神庙圣湖",
+    "description": "位于阿蒙神庙区内的人工圣湖，主要服务祭司净化和神庙仪式，不宜解释为普通公共浴池",
+    "year": null,
+    "placeAndPeriod": "埃及卢克索，新王国时期",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "神圣",
+      "净化",
+      "围合",
+      "仪式"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-3",
+      "R-B-9",
+      "R-B-2",
+      "R-B-11",
+      "R-B-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 29,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "建筑／仪式 Architecture / Ritual",
+      "案例": "卡纳克神庙圣湖",
+      "精短标签": "神圣、净化、围合、仪式",
+      "地点／年代": "埃及卢克索，新王国时期",
+      "原型价值": "位于阿蒙神庙区内的人工圣湖，主要服务祭司净化和神庙仪式，不宜解释为普通公共浴池",
+      "主动作": "HOLD 储存",
+      "次动作": "RELEASE 释放"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-10.jpg",
+    "image": "images/2-10.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-10.webp",
+    "actionEligible": true,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-11",
+    "matchKey": "2-11",
+    "title": "吴哥西池 West Baray",
+    "description": "巨型人工水体联系区域水利、岛庙与宗教空间",
+    "year": null,
+    "placeAndPeriod": "柬埔寨暹粒吴哥，约11世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "人工",
+      "区域",
+      "岛庙",
+      "神圣"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-3",
+      "R-B-10",
+      "R-A-14",
+      "R-B-9",
+      "R-B-7"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 30,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "基础设施／宗教 Infrastructure / Religious",
+      "案例": "吴哥西池 West Baray",
+      "精短标签": "人工｜区域｜岛庙｜神圣",
+      "地点／年代": "柬埔寨暹粒吴哥，约11世纪",
+      "原型价值": "巨型人工水体联系区域水利、岛庙与宗教空间",
+      "主动作": "HOLD 储存",
+      "次动作": "GATHER 汇聚"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-11.jpg",
+    "image": "images/2-11.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-11.webp",
+    "actionEligible": true,
+    "sortYear": 1000,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-12",
+    "matchKey": "2-12",
+    "title": "Amrit Sarovar 金庙圣池",
+    "description": "金庙位于圣池中央，环池步道组织朝拜、观看、绕行和入水活动",
+    "year": null,
+    "placeAndPeriod": "印度阿姆利则，16世纪起",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "EVERYDAY"
+    ],
+    "actions": [],
+    "keywords": [
+      "环行",
+      "浸入",
+      "朝圣",
+      "中心"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-7",
+      "R-B-5",
+      "R-B-3",
+      "R-B-20"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 31,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "建筑／宗教／日常 Architecture / Religious / Everyday",
+      "案例": "Amrit Sarovar 金庙圣池",
+      "精短标签": "环行、浸入、朝圣、中心",
+      "地点／年代": "印度阿姆利则，16世纪起",
+      "原型价值": "金庙位于圣池中央，环池步道组织朝拜、观看、绕行和入水活动",
+      "主动作": "HOLD 储存",
+      "次动作": "GATHER 汇聚"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-12.jpg",
+    "image": "images/2-12.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-12.webp",
+    "actionEligible": true,
+    "sortYear": 1500,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-15",
+    "matchKey": "2-15",
+    "title": "桂离宫园池",
+    "description": "池水、洲岛、汀步、桥梁、茶亭与回游路线共同构成不断变化的观看序列",
+    "year": null,
+    "placeAndPeriod": "日本京都，17世纪",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "ARCHITECTURE",
+      "LANDSCAPE"
+    ],
+    "actions": [],
+    "keywords": [
+      "回游",
+      "临水",
+      "框景",
+      "停留"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-7",
+      "R-B-5",
+      "R-B-3",
+      "R-B-20"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 34,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 15,
+      "来源": "建筑／景观 Architecture / Landscape",
+      "案例": "桂离宫园池",
+      "精短标签": "回游、临水、框景、停留",
+      "地点／年代": "日本京都，17世纪",
+      "原型价值": "池水、洲岛、汀步、桥梁、茶亭与回游路线共同构成不断变化的观看序列",
+      "主动作": "HOLD 储存",
+      "次动作": "RECIRCULATE 循环"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-15.jpg",
+    "image": "images/2-15.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-15.webp",
+    "actionEligible": true,
+    "sortYear": 1600,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-16",
+    "matchKey": "2-16",
+    "title": "Benthemplein Water Square",
+    "description": "平时是篮球、滑板、剧场和停留空间；暴雨时下沉场地转而储存雨水。**同一空间根据有没有水，在公共生活与基础设施之间切换。**设计方明确将其定义为“public space + stormwater storage”。",
+    "year": null,
+    "placeAndPeriod": "荷兰鹿特丹／2013",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "下沉",
+      "可淹没",
+      "运动",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-20",
+      "R-B-2",
+      "R-B-19",
+      "R-B-17",
+      "R-F-6"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 35,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 16,
+      "来源": "基础设施／公共空间 Infrastructure / Public Space",
+      "案例": "Benthemplein Water Square",
+      "精短标签": "下沉｜可淹没｜运动｜公共",
+      "地点／年代": "荷兰鹿特丹／2013",
+      "原型价值": "平时是篮球、滑板、剧场和停留空间；暴雨时下沉场地转而储存雨水。**同一空间根据有没有水，在公共生活与基础设施之间切换。**设计方明确将其定义为“public space + stormwater storage”。",
+      "主动作": "HOLD 储存",
+      "次动作": "RELEASE 释放"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-16.png",
+    "image": "images/2-16.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-16.webp",
+    "actionEligible": true,
+    "sortYear": 2013,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-17",
+    "matchKey": "2-17",
+    "title": "Enghaveparken Climate Park",
+    "description": "历史公园被改造成城市防洪系统，极端降雨时可容纳约22,600m³雨水，同时地下“water bank”储水供城市维护、灌溉与喷泉。雨洪设施没有挤走日常生活，而是成为公园的一部分。",
+    "year": null,
+    "placeAndPeriod": "丹麦哥本哈根／2019",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "可淹没",
+      "水库",
+      "公园",
+      "复用"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-16",
+      "R-C-2",
+      "R-B-9",
+      "R-B-7",
+      "R-B-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 36,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 17,
+      "来源": "基础设施／公共空间 Infrastructure / Public Space",
+      "案例": "Enghaveparken Climate Park",
+      "精短标签": "可淹没｜水库｜公园｜复用",
+      "地点／年代": "丹麦哥本哈根／2019",
+      "原型价值": "历史公园被改造成城市防洪系统，极端降雨时可容纳约22,600m³雨水，同时地下“water bank”储水供城市维护、灌溉与喷泉。雨洪设施没有挤走日常生活，而是成为公园的一部分。",
+      "主动作": "HOLD 储存",
+      "次动作": "THRESHOLD 临界"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-17.png",
+    "image": "images/2-17.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-17.webp",
+    "actionEligible": true,
+    "sortYear": 2019,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-18",
+    "matchKey": "2-18",
+    "title": "哈尔滨群力雨洪公园 Qunli Stormwater Park",
+    "description": "城市雨水先进入外围不同深度的塘群过滤、沉淀，再补给中心湿地；步道、观景塔和平台让居民同时进入这套储水系统。它是水管理直接生成城市景观的典型。",
+    "year": null,
+    "placeAndPeriod": "中国哈尔滨／2011",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "海绵",
+      "塘群",
+      "过滤",
+      "游憩"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-9",
+      "R-B-7",
+      "R-C-9",
+      "R-B-5",
+      "R-B-3"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 37,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 18,
+      "来源": "基础设施／城市／生态 Infrastructure / Urban / Ecology",
+      "案例": "哈尔滨群力雨洪公园 Qunli Stormwater Park",
+      "精短标签": "海绵｜塘群｜过滤｜游憩",
+      "地点／年代": "中国哈尔滨／2011",
+      "原型价值": "城市雨水先进入外围不同深度的塘群过滤、沉淀，再补给中心湿地；步道、观景塔和平台让居民同时进入这套储水系统。它是水管理直接生成城市景观的典型。",
+      "主动作": "GATHER 汇聚",
+      "次动作": "FILTER 过滤"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-18.png",
+    "image": "images/2-18.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-18.webp",
+    "actionEligible": true,
+    "sortYear": 2011,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-19",
+    "matchKey": "2-19",
+    "title": "天津桥园公园 Qiaoyuan Park",
+    "description": "通过不同深度的坑塘收集雨水、改善盐碱土、生成不同植物群落；储水地形本身同时成为市民观看、步行和学习自然过程的公园。",
+    "year": null,
+    "placeAndPeriod": "中国天津／2008",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "坑塘",
+      "蓄滞",
+      "生态修复",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-2",
+      "R-B-16",
+      "R-F-6",
+      "R-F-13",
+      "R-F-11"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 38,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 19,
+      "来源": "基础设施／城市／生态 Infrastructure / Urban / Ecology",
+      "案例": "天津桥园公园 Qiaoyuan Park",
+      "精短标签": "坑塘｜蓄滞｜生态修复｜公共",
+      "地点／年代": "中国天津／2008",
+      "原型价值": "通过不同深度的坑塘收集雨水、改善盐碱土、生成不同植物群落；储水地形本身同时成为市民观看、步行和学习自然过程的公园。",
+      "主动作": "GATHER 汇聚",
+      "次动作": "INFILTRATE 渗透"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-19.png",
+    "image": "images/2-19.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-19.webp",
+    "actionEligible": true,
+    "sortYear": 2008,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-B-20",
+    "matchKey": "2-20",
+    "title": "沣西新城中心绿廊",
+    "description": "下沉绿廊承接周边城市径流，通过植草沟、植物与砾石系统净化、储存、下渗和回补地下水；同时是一条城市公共绿廊。真正把蓄水能力变成日常城市空间。",
+    "year": null,
+    "placeAndPeriod": "中国西咸新区／2015一期",
+    "curatorialPosition": "SPATIAL PROTOTYPE",
+    "positionNumber": 2,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [],
+    "keywords": [
+      "下沉",
+      "渗透",
+      "回补",
+      "绿廊"
+    ],
+    "weight": 2,
+    "depth": 10,
+    "relatedIds": [
+      "R-B-16",
+      "R-D-3",
+      "R-D-12",
+      "R-C-9",
+      "R-C-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 39,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 20,
+      "来源": "基础设施／城市／生态 Infrastructure / Urban / Ecology",
+      "案例": "沣西新城中心绿廊",
+      "精短标签": "下沉｜渗透｜回补｜绿廊",
+      "地点／年代": "中国西咸新区／2015一期",
+      "原型价值": "下沉绿廊承接周边城市径流，通过植草沟、植物与砾石系统净化、储存、下渗和回补地下水；同时是一条城市公共绿廊。真正把蓄水能力变成日常城市空间。",
+      "主动作": "GATHER 汇聚",
+      "次动作": "INFILTRATE 渗透"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "2-20.png",
+    "image": "images/2-20.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/2-20.webp",
+    "actionEligible": true,
+    "sortYear": 2015,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 0.75
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：回补",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-1",
+    "matchKey": "3-1",
+    "title": "斯里兰卡串联水塘村落系统 Cascaded Tank-Village System",
+    "description": "多个大小水塘沿微型集水区高低串联，上一级余水进入下一级，并服务农田、村落与生态。它把“一个蓄水池”变成连续蓄—放—再蓄的网络。",
+    "year": null,
+    "placeAndPeriod": "斯里兰卡干旱区／至少公元前3世纪起",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "RECIRCULATE",
+      "OVERFLOW"
+    ],
+    "keywords": [
+      "串联",
+      "溢流",
+      "回用"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-9",
+      "R-C-5",
+      "R-C-4",
+      "R-C-2",
+      "R-E-10"
+    ],
+    "sourceTitle": "ATCH 截流 → DIVERT 分流 → STORE 蓄存 → FILTER 过滤 → LEVEL 水位 → THRESHOLD 阈值 → OVERFLOW 溢流 → PUMP 泵送 → LOOP 循环 → RECHARGE 回灌",
+    "url": null,
+    "excelRow": 55,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "一级分类": "3机制原型——决定水如何进入、停留与离开",
+      "序号": 1,
+      "来源": "基础设施 Infrastructure",
+      "案例": "斯里兰卡串联水塘村落系统 Cascaded Tank-Village System",
+      "精短标签": "串联｜溢流｜回用",
+      "地点／年代": "斯里兰卡干旱区／至少公元前3世纪起",
+      "原型价值": "多个大小水塘沿微型集水区高低串联，上一级余水进入下一级，并服务农田、村落与生态。它把“一个蓄水池”变成连续蓄—放—再蓄的网络。",
+      "出处/作者": "ATCH 截流 → DIVERT 分流 → STORE 蓄存 → FILTER 过滤 → LEVEL 水位 → THRESHOLD 阈值 → OVERFLOW 溢流 → PUMP 泵送 → LOOP 循环 → RECHARGE 回灌",
+      "主动作": "RECIRCULATE",
+      "次动作": "OVERFLOW"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-1.png",
+    "image": "images/3-1.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-1.webp",
+    "actionEligible": false,
+    "sortYear": -300,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：溢流 / RECIRCULATE / OVERFLOW",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-2",
+    "matchKey": "3-2",
+    "title": "舒什塔尔历史水利系统 Shushtar Historical Hydraulic System",
+    "description": "河水先由堰坝与运河分流，再经隧道驱动水磨、跌入下游水池，最终继续灌溉平原；系统还设置水位测量塔。它说明“蓄放”可以是一条多阶段水流链。",
+    "year": null,
+    "placeAndPeriod": "伊朗舒什塔尔／现有体系主要成形于3世纪",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "DIVERT",
+      "RECIRCULATE"
+    ],
+    "keywords": [
+      "分流",
+      "落差",
+      "复用"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-11",
+      "R-C-9",
+      "R-C-5",
+      "R-C-1",
+      "R-B-17"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 56,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "基础设施 Infrastructure / 生态 Ecology",
+      "案例": "舒什塔尔历史水利系统 Shushtar Historical Hydraulic System",
+      "精短标签": "分流｜落差｜复用",
+      "地点／年代": "伊朗舒什塔尔／现有体系主要成形于3世纪",
+      "原型价值": "河水先由堰坝与运河分流，再经隧道驱动水磨、跌入下游水池，最终继续灌溉平原；系统还设置水位测量塔。它说明“蓄放”可以是一条多阶段水流链。",
+      "主动作": "DIVERT ",
+      "次动作": "RECIRCULATE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-2.webp",
+    "image": "images/3-2.webp",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-2.webp",
+    "actionEligible": false,
+    "sortYear": 200,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-C-3",
+    "matchKey": "3-3",
+    "title": "伊朗 Āb-anbār 地下蓄水系统",
+    "description": "冬季由坎儿井或季节洪水经专门渠道与闸门灌入地下蓄水室；多个池可依次切换进水，同时通过通风结构降低内部温度。它把进入—封存—保存水质—取水做成一整套机制。",
+    "year": null,
+    "placeAndPeriod": "伊朗干旱城市／传统水利系统",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "HOLD"
+    ],
+    "keywords": [
+      "闸控",
+      "季节蓄水",
+      "通风冷却"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-7",
+      "R-C-12",
+      "R-F-15",
+      "R-F-11",
+      "R-E-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 57,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "基础设施 Infrastructure / 建筑 Architecture",
+      "案例": "伊朗 Āb-anbār 地下蓄水系统",
+      "精短标签": "闸控｜季节蓄水｜通风冷却",
+      "地点／年代": "伊朗干旱城市／传统水利系统",
+      "原型价值": "冬季由坎儿井或季节洪水经专门渠道与闸门灌入地下蓄水室；多个池可依次切换进水，同时通过通风结构降低内部温度。它把进入—封存—保存水质—取水做成一整套机制。",
+      "主动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-3.jpg",
+    "image": "images/3-3.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-3.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-C-4",
+    "matchKey": "3-4",
+    "title": "Monticello Dam “Morning Glory” 溢洪道",
+    "description": "当 Lake Berryessa 水位超过 440英尺溢洪道口时，水自动越过圆形入口进入泄洪隧道。它几乎是“达到阈值 → 自动溢出”最直接的物理图像。",
+    "year": null,
+    "placeAndPeriod": "美国加州／1957",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "THRESHOLD",
+      "OVERFLOW"
+    ],
+    "keywords": [
+      "阈值",
+      "溢洪",
+      "自排"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-E-10",
+      "R-C-8",
+      "R-C-7",
+      "R-C-13",
+      "R-C-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 58,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 4,
+      "来源": "基础设施 Infrastructure／建筑 Architecture",
+      "案例": "Monticello Dam “Morning Glory” 溢洪道",
+      "精短标签": "阈值｜溢洪｜自排",
+      "地点／年代": "美国加州／1957",
+      "原型价值": "当 Lake Berryessa 水位超过 440英尺溢洪道口时，水自动越过圆形入口进入泄洪隧道。它几乎是“达到阈值 → 自动溢出”最直接的物理图像。",
+      "主动作": "THRESHOLD",
+      "次动作": "OVERFLOW"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-4.jpg",
+    "image": "images/3-4.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-4.webp",
+    "actionEligible": false,
+    "sortYear": 1957,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：溢洪 / 自排 / THRESHOLD / OVERFLOW",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-5",
+    "matchKey": "3-5",
+    "title": "Dinorwig 抽水蓄能系统",
+    "description": "电力需求高时，上水库的水经压力隧道向下释放发电；低谷时涡轮反向工作，把下水库的水重新泵回上池。蓄水池由“储水容器”变成可反复充放的能量电池。",
+    "year": null,
+    "placeAndPeriod": "英国威尔士／1984",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "RECIRCULATE",
+      "RELEASE"
+    ],
+    "keywords": [
+      "双池",
+      "泵蓄",
+      "可逆循环"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-9",
+      "R-C-8",
+      "R-C-6",
+      "R-C-2",
+      "R-C-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 59,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Dinorwig 抽水蓄能系统",
+      "精短标签": "双池｜泵蓄｜可逆循环",
+      "地点／年代": "英国威尔士／1984",
+      "原型价值": "电力需求高时，上水库的水经压力隧道向下释放发电；低谷时涡轮反向工作，把下水库的水重新泵回上池。蓄水池由“储水容器”变成可反复充放的能量电池。",
+      "主动作": "RECIRCULATE",
+      "次动作": " RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-5.jpg",
+    "image": "images/3-5.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-5.webp",
+    "actionEligible": false,
+    "sortYear": 1984,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：RECIRCULATE / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-6",
+    "matchKey": "3-6",
+    "title": "首都圈外郭放水路 G-Cans",
+    "description": "洪水由竖井进入地下隧道，再抵达巨大调压水槽；水槽负责削减水流动量、稳定泵站，之后大型泵将水排入江户川。核心不是“地下神殿”的外观，而是汇水—减压—排水。",
+    "year": null,
+    "placeAndPeriod": "日本埼玉／2000年代",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "GATHER",
+      "RELEASE"
+    ],
+    "keywords": [
+      "汇入",
+      "减压",
+      "泵排"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-8",
+      "R-C-5",
+      "R-C-13",
+      "R-C-11",
+      "R-F-7"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 60,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 6,
+      "来源": "基础设施 Infrastructure／生态 Ecology",
+      "案例": "首都圈外郭放水路 G-Cans",
+      "精短标签": "汇入｜减压｜泵排",
+      "地点／年代": "日本埼玉／2000年代",
+      "原型价值": "洪水由竖井进入地下隧道，再抵达巨大调压水槽；水槽负责削减水流动量、稳定泵站，之后大型泵将水排入江户川。核心不是“地下神殿”的外观，而是汇水—减压—排水。",
+      "主动作": "GATHER",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-6.png",
+    "image": "images/3-6.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-6.webp",
+    "actionEligible": false,
+    "sortYear": 2000,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：汇入 / 泵排 / GATHER / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-7",
+    "matchKey": "3-7",
+    "title": "香港跑马地地下蓄洪计划 HVUSSS",
+    "description": "系统实时读取潮位和上下游水位，用可移动堰决定何时让暴雨水溢入地下池；雨后约三分之一储水还能通过重力退回排水渠，避免过早或过晚蓄水。是非常纯粹的“智能水位阈值”。",
+    "year": null,
+    "placeAndPeriod": "香港／2015–2017",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "EVERYDAY"
+    ],
+    "actions": [
+      "THRESHOLD",
+      "HOLD"
+    ],
+    "keywords": [
+      "实时监测",
+      "可调阈值",
+      "重力退水"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-8",
+      "R-C-4",
+      "R-C-3",
+      "R-C-13",
+      "R-C-12"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 61,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "基础设施 Infrastructure／／日常 Everyday",
+      "案例": "香港跑马地地下蓄洪计划 HVUSSS",
+      "精短标签": "实时监测｜可调阈值｜重力退水",
+      "地点／年代": "香港／2015–2017",
+      "原型价值": "系统实时读取潮位和上下游水位，用可移动堰决定何时让暴雨水溢入地下池；雨后约三分之一储水还能通过重力退回排水渠，避免过早或过晚蓄水。是非常纯粹的“智能水位阈值”。",
+      "主动作": "THRESHOLD",
+      "次动作": " HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-7.jpg",
+    "image": "images/3-7.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-7.webp",
+    "actionEligible": false,
+    "sortYear": 2015,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：重力退水 / THRESHOLD / HOLD",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-8",
+    "matchKey": "3-8",
+    "title": "Marina Barrage 滨海堤坝",
+    "description": "暴雨遇低潮时开启九道闸门让多余雨水自然排海；高潮时则启动大型水泵强制排出，使 Marina Reservoir 的水位维持相对稳定。它体现外部条件改变 → 出水机制随之切换。",
+    "year": null,
+    "placeAndPeriod": "新加坡／2008",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "THRESHOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "潮位",
+      "九道闸门",
+      "泵排"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-13",
+      "R-C-6",
+      "R-C-7",
+      "R-C-5",
+      "R-C-4"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 62,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 8,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Marina Barrage 滨海堤坝",
+      "精短标签": "潮位｜九道闸门｜泵排",
+      "地点／年代": "新加坡／2008",
+      "原型价值": "暴雨遇低潮时开启九道闸门让多余雨水自然排海；高潮时则启动大型水泵强制排出，使 Marina Reservoir 的水位维持相对稳定。它体现外部条件改变 → 出水机制随之切换。",
+      "主动作": "THRESHOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-8.png",
+    "image": "images/3-8.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-8.webp",
+    "actionEligible": false,
+    "sortYear": 2008,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：泵排 / THRESHOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-9",
+    "matchKey": "3-9",
+    "title": "NEWater 水循环系统",
+    "description": "使用后的水经过膜过滤、反渗透与紫外消毒重新成为高品质水；旱期部分 NEWater 又加入水库，与原水混合后再次进入水厂。原本单向的“用水—排水”被改造成回到蓄水池的闭环。",
+    "year": null,
+    "placeAndPeriod": "新加坡／2002起",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "EVERYDAY"
+    ],
+    "actions": [
+      "FILTER",
+      "RECIRCULATE"
+    ],
+    "keywords": [
+      "过滤",
+      "回补",
+      "闭环"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-5",
+      "R-C-2",
+      "R-C-10",
+      "R-C-1",
+      "R-E-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 63,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "基础设施 Infrastructure／生态 Ecology／日常 Everyday",
+      "案例": "NEWater 水循环系统",
+      "精短标签": "过滤｜回补｜闭环",
+      "地点／年代": "新加坡／2002起",
+      "原型价值": "使用后的水经过膜过滤、反渗透与紫外消毒重新成为高品质水；旱期部分 NEWater 又加入水库，与原水混合后再次进入水厂。原本单向的“用水—排水”被改造成回到蓄水池的闭环。",
+      "主动作": "FILTER ",
+      "次动作": "RECIRCULATE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-9.jpg",
+    "image": "images/3-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-9.webp",
+    "actionEligible": false,
+    "sortYear": 2002,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：回补 / FILTER / RECIRCULATE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-10",
+    "matchKey": "3-10",
+    "title": "Orange County Groundwater Replenishment System",
+    "description": "高度处理后的废水经过微滤、反渗透和UV处理，再回灌到地下含水层。这里甚至不再需要可见水池，地质层本身成为蓄水池。",
+    "year": null,
+    "placeAndPeriod": "美国加州／2008起",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "FILTER",
+      "RECHARGE"
+    ],
+    "keywords": [
+      "净化",
+      "回灌",
+      "地下储存"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-9",
+      "R-E-1",
+      "R-C-12",
+      "R-B-3",
+      "R-B-10"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 64,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "基础设施 Infrastructure／生态 Ecology",
+      "案例": "Orange County Groundwater Replenishment System",
+      "精短标签": "净化｜回灌｜地下储存",
+      "地点／年代": "美国加州／2008起",
+      "原型价值": "高度处理后的废水经过微滤、反渗透和UV处理，再回灌到地下含水层。这里甚至不再需要可见水池，地质层本身成为蓄水池。",
+      "主动作": "FILTER ",
+      "次动作": "RECHARGE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-10.webp",
+    "image": "images/3-10.webp",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-10.webp",
+    "actionEligible": false,
+    "sortYear": 2008,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：回灌 / FILTER / RECHARGE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-11",
+    "matchKey": "3-11",
+    "title": "佩特拉 Petra 纳巴泰水管理系统",
+    "description": "佩特拉不是单一蓄水池，而是由导流坝、隧道、明渠、水槽、水池和地下蓄水池组成的完整系统：暴雨先被截流，洪水绕开城市，再将季节性降雨导入不同储水单元。特别适合作为“从流量到储量”的古代机制总图。",
+    "year": null,
+    "placeAndPeriod": "约旦／主要形成于公元前1世纪—公元1世纪",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "GATHER",
+      "DIVERT"
+    ],
+    "keywords": [
+      "截流",
+      "分流",
+      "储存",
+      "防洪"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-2",
+      "R-E-7",
+      "R-C-6",
+      "R-F-5",
+      "R-E-11"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 65,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "基础设施 Infrastructure／建筑 Architecture／生态 Ecology",
+      "案例": "佩特拉 Petra 纳巴泰水管理系统",
+      "精短标签": "截流｜分流｜储存｜防洪",
+      "地点／年代": "约旦／主要形成于公元前1世纪—公元1世纪",
+      "原型价值": "佩特拉不是单一蓄水池，而是由导流坝、隧道、明渠、水槽、水池和地下蓄水池组成的完整系统：暴雨先被截流，洪水绕开城市，再将季节性降雨导入不同储水单元。特别适合作为“从流量到储量”的古代机制总图。 ",
+      "主动作": "GATHER",
+      "次动作": "DIVERT"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-11.png",
+    "image": "images/3-11.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-11.webp",
+    "actionEligible": false,
+    "sortYear": -100,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": 0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：GATHER / DIVERT",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-C-12",
+    "matchKey": "3-12",
+    "title": "秘鲁 Amunas“播种水”系统",
+    "description": "雨季山溪水被石土渠道主动引向多孔地层，让水渗入地下，而不是快速流走；水可在地下滞留数十天甚至数月后，以泉水形式重新出现。它相当于故意让水“漏掉”，把山体变成蓄水池。",
+    "year": null,
+    "placeAndPeriod": "秘鲁安第斯／约1400年前至今",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "INFILTRATE",
+      "HOLD"
+    ],
+    "keywords": [
+      "渗透",
+      "延迟",
+      "地下储存",
+      "旱季释放"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-7",
+      "R-C-3",
+      "R-F-15",
+      "R-F-11",
+      "R-E-13"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 66,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "基础设施 Infrastructure／生态 Ecology",
+      "案例": "秘鲁 Amunas“播种水”系统",
+      "精短标签": "渗透｜延迟｜地下储存｜旱季释放",
+      "地点／年代": "秘鲁安第斯／约1400年前至今",
+      "原型价值": "雨季山溪水被石土渠道主动引向多孔地层，让水渗入地下，而不是快速流走；水可在地下滞留数十天甚至数月后，以泉水形式重新出现。它相当于故意让水“漏掉”，把山体变成蓄水池。",
+      "主动作": "INFILTRATE",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-12.jpg",
+    "image": "images/3-12.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-12.webp",
+    "actionEligible": false,
+    "sortYear": 1400,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-C-13",
+    "matchKey": "3-13",
+    "title": "Kruisplein 地下蓄水系统",
+    "description": "当旁边 Westersingel 水位上涨超过约10厘米，水会自动进入地下储水空间；水位降低后，大部分又靠重力自行回到运河，最后残留水再排入下水道并清洗池体。是非常清晰的阈值触发—蓄存—自动复位系统。",
+    "year": null,
+    "placeAndPeriod": "荷兰鹿特丹／2009–2013",
+    "curatorialPosition": "MECHANISM PROTOTYPE",
+    "positionNumber": 3,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "THRESHOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "水位阈值",
+      "自动流入",
+      "重力回流",
+      "清洗"
+    ],
+    "weight": 2,
+    "depth": 15,
+    "relatedIds": [
+      "R-C-8",
+      "R-C-7",
+      "R-C-6",
+      "R-C-5",
+      "R-C-4"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 67,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 13,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Kruisplein 地下蓄水系统",
+      "精短标签": "水位阈值｜自动流入｜重力回流｜清洗",
+      "地点／年代": "荷兰鹿特丹／2009–2013",
+      "原型价值": "当旁边 Westersingel 水位上涨超过约10厘米，水会自动进入地下储水空间；水位降低后，大部分又靠重力自行回到运河，最后残留水再排入下水道并清洗池体。是非常清晰的阈值触发—蓄存—自动复位系统。",
+      "主动作": "THRESHOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "3-13.jpg",
+    "image": "images/3-13.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/3-13.webp",
+    "actionEligible": false,
+    "sortYear": 2009,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": {
+      "x": 0.85,
+      "y": -0.85,
+      "z": 0.5
+    },
+    "mapEvidence": [
+      "物理储水设施：按原型分类",
+      "流向依据：THRESHOLD / RELEASE",
+      "Z 轴依据现有策展分类；坐标为展示规则，不是量化研究结论"
+    ]
+  },
+  {
+    "id": "R-D-1",
+    "matchKey": "4-1",
+    "title": "Rachel Whiteread《Water Tower》",
+    "description": "艺术家直接翻制一座真实木制水塔的内部空腔。原本用来“容纳水”的空，被树脂变成实体；水池最重要但看不见的“容量”被翻到外面。这个案例几乎是你们“容器变型”最精准的一件。",
+    "year": null,
+    "placeAndPeriod": "纽约／1998",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE",
+      "ART"
+    ],
+    "actions": [
+      "INVERT",
+      "VOID"
+    ],
+    "keywords": [
+      "内外翻转",
+      "负空间",
+      "实体化"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-13",
+      "R-D-2",
+      "R-F-9",
+      "R-E-6",
+      "R-E-3"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 104,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "分类1": "变型",
+      "一级分类": "4空间变型——把容器转化为观看与身体经验\n",
+      "序号": 1,
+      "来源": "艺术 Art／建筑 Architecture",
+      "案例": "Rachel Whiteread《Water Tower》",
+      "精短标签": "内外翻转｜负空间｜实体化",
+      "地点／年代": "纽约／1998",
+      "原型价值": "艺术家直接翻制一座真实木制水塔的内部空腔。原本用来“容纳水”的空，被树脂变成实体；水池最重要但看不见的“容量”被翻到外面。这个案例几乎是你们“容器变型”最精准的一件。",
+      "主动作": "INVERT ",
+      "次动作": " VOID"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-1.png",
+    "image": "images/4-1.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-1.webp",
+    "actionEligible": false,
+    "sortYear": 1998,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-2",
+    "matchKey": "4-2",
+    "title": "Leandro Erlich《The Swimming Pool》",
+    "description": "泳池只有透明玻璃上方约10厘米深的水，观众却能进入“水下”空间。水面由不可穿越的界面变成将两组观众分隔又连接的薄膜，实现池内 / 池外的彻底翻转。",
+    "year": null,
+    "placeAndPeriod": "金泽／2004",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART",
+      "BODY"
+    ],
+    "actions": [
+      "INVERT",
+      "ENTER"
+    ],
+    "keywords": [
+      "水面切割",
+      "上下反转",
+      "互望"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-1",
+      "R-F-9",
+      "R-F-6",
+      "R-F-2",
+      "R-E-6"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 105,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "艺术 Art／身体 Body",
+      "案例": "Leandro Erlich《The Swimming Pool》",
+      "精短标签": "水面切割｜上下反转｜互望",
+      "地点／年代": "金泽／2004",
+      "原型价值": "泳池只有透明玻璃上方约10厘米深的水，观众却能进入“水下”空间。水面由不可穿越的界面变成将两组观众分隔又连接的薄膜，实现池内 / 池外的彻底翻转。",
+      "主动作": "INVERT ",
+      "次动作": "ENTER"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-2.jpg",
+    "image": "images/4-2.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-2.webp",
+    "actionEligible": false,
+    "sortYear": 2004,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-3",
+    "matchKey": "4-3",
+    "title": "安藤忠雄 本福寺水御堂 Honpukuji Water Temple",
+    "description": "巨大的椭圆水池覆盖在寺庙上方，进入寺院不是向上，而是沿一条切开水面的楼梯向水下下降。水池同时成为屋顶、界面和进入仪式。",
+    "year": null,
+    "placeAndPeriod": "日本淡路岛／1991",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE"
+    ],
+    "actions": [
+      "DESCEND",
+      "CUT"
+    ],
+    "keywords": [
+      "下沉",
+      "水面屋顶",
+      "仪式路径"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-12",
+      "R-D-13",
+      "R-F-1",
+      "R-E-1",
+      "R-B-20"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 106,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "建筑 Architecture",
+      "案例": "安藤忠雄 本福寺水御堂 Honpukuji Water Temple",
+      "精短标签": "下沉｜水面屋顶｜仪式路径",
+      "地点／年代": "日本淡路岛／1991",
+      "原型价值": "巨大的椭圆水池覆盖在寺庙上方，进入寺院不是向上，而是沿一条切开水面的楼梯向水下下降。水池同时成为屋顶、界面和进入仪式。",
+      "主动作": "DESCEND",
+      "次动作": "CUT"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-3.jpg",
+    "image": "images/4-3.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-3.webp",
+    "actionEligible": false,
+    "sortYear": 1991,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-4",
+    "matchKey": "4-4",
+    "title": "Buffalo Bayou Park Cistern",
+    "description": "原饮用水地下水库失去储水功能后，87,500平方英尺的巨大柱网空间被重新开放，成为参观、表演和装置艺术场所。水退出后，原本服务水的空间第一次真正服务人的身体。",
+    "year": null,
+    "placeAndPeriod": "美国休斯敦／1926建成，2007停用后转型",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ARCHITECTURE",
+      "ART"
+    ],
+    "actions": [
+      "EMPTY",
+      "REUSE"
+    ],
+    "keywords": [
+      "柱网",
+      "空池",
+      "再占用"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-5",
+      "R-D-12",
+      "R-F-4",
+      "R-F-12",
+      "R-E-9"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 107,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 4,
+      "来源": "建筑 Architecture／基础设施 Infrastructure／艺术 Art",
+      "案例": "Buffalo Bayou Park Cistern",
+      "精短标签": "柱网｜空池｜再占用",
+      "地点／年代": "美国休斯敦／1926建成，2007停用后转型",
+      "原型价值": "原饮用水地下水库失去储水功能后，87,500平方英尺的巨大柱网空间被重新开放，成为参观、表演和装置艺术场所。水退出后，原本服务水的空间第一次真正服务人的身体。",
+      "主动作": "EMPTY ",
+      "次动作": "REUSE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-4.jpg",
+    "image": "images/4-4.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-4.webp",
+    "actionEligible": false,
+    "sortYear": 1926,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-5",
+    "matchKey": "4-5",
+    "title": "Cisternerne 哥本哈根地下水库",
+    "description": "曾能容纳约1600万升饮用水的地下水库，如今成为场域特定艺术空间。黑暗、潮湿、渗水、钟乳石和回声并未被“装修掉”，反而成为展览条件；原蓄水环境本身成为感知媒介。",
+    "year": null,
+    "placeAndPeriod": "丹麦哥本哈根／1856–1859建造；1933停用",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "REUSE",
+      "IMMERSE"
+    ],
+    "keywords": [
+      "地下",
+      "湿度",
+      "场所化"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-4",
+      "R-D-14",
+      "R-D-12",
+      "R-F-1",
+      "R-F-9"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 108,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Cisternerne 哥本哈根地下水库",
+      "精短标签": "地下｜湿度｜场所化",
+      "地点／年代": "丹麦哥本哈根／1856–1859建造；1933停用",
+      "原型价值": "曾能容纳约1600万升饮用水的地下水库，如今成为场域特定艺术空间。黑暗、潮湿、渗水、钟乳石和回声并未被“装修掉”，反而成为展览条件；原蓄水环境本身成为感知媒介。",
+      "主动作": "REUSE",
+      "次动作": "IMMERSE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-5.jpg",
+    "image": "images/4-5.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-5.webp",
+    "actionEligible": false,
+    "sortYear": 1856,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-6",
+    "matchKey": "4-6",
+    "title": "Jeppe Hein《Appearing Rooms》",
+    "description": "四周及内部水墙按程序周期性升降，房间不断出现、消失。人在其中可能突然由“室内”变成“室外”，空间边界由固定墙体变成暂时存在的水。",
+    "year": "2004",
+    "placeAndPeriod": "2004",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART",
+      "BODY"
+    ],
+    "actions": [
+      "ENCLOSE",
+      "SWITCH"
+    ],
+    "keywords": [
+      "水墙",
+      "可变边界",
+      "穿行"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-E-4",
+      "R-E-2",
+      "R-D-11",
+      "R-D-9",
+      "R-D-8"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 109,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 6,
+      "来源": "艺术 Art／身体 Body",
+      "案例": "Jeppe Hein《Appearing Rooms》",
+      "精短标签": "水墙｜可变边界｜穿行",
+      "地点／年代": 2004,
+      "原型价值": "四周及内部水墙按程序周期性升降，房间不断出现、消失。人在其中可能突然由“室内”变成“室外”，空间边界由固定墙体变成暂时存在的水。",
+      "主动作": "ENCLOSE",
+      "次动作": "SWITCH"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-6.jpg",
+    "image": "images/4-6.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-6.webp",
+    "actionEligible": false,
+    "sortYear": 2004,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-7",
+    "matchKey": "4-7",
+    "title": "Random International《Rain Room》",
+    "description": "持续降雨构成一个充满水的整体空间，但人的身体走到哪里，哪里就形成一个不下雨的移动空腔。空间边界由身体实时生成。",
+    "year": "2012",
+    "placeAndPeriod": "2012",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART",
+      "BODY"
+    ],
+    "actions": [
+      "EXCLUDE",
+      "MOVE"
+    ],
+    "keywords": [
+      "身体感应",
+      "干区",
+      "反向容器"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-E-8",
+      "R-D-9",
+      "R-D-8",
+      "R-D-6",
+      "R-D-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 110,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "艺术 Art／身体 Body／",
+      "案例": "Random International《Rain Room》",
+      "精短标签": "身体感应｜干区｜反向容器",
+      "地点／年代": 2012,
+      "原型价值": "持续降雨构成一个充满水的整体空间，但人的身体走到哪里，哪里就形成一个不下雨的移动空腔。空间边界由身体实时生成。",
+      "主动作": "EXCLUDE ",
+      "次动作": "MOVE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-7.jpeg",
+    "image": "images/4-7.jpeg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-7.webp",
+    "actionEligible": false,
+    "sortYear": 2012,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-8",
+    "matchKey": "4-8",
+    "title": "Olafur Eliasson《Riverbed》",
+    "description": "石块与真实流动的溪水占据整个美术馆南翼，原本平整的白盒子变成需要身体选择路径的河床。观众甚至可以沿水流向上寻找源头；水重新规定了人的行走方式。",
+    "year": null,
+    "placeAndPeriod": "丹麦 Louisiana Museum／2014",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART",
+      "BODY"
+    ],
+    "actions": [
+      "REROUTE",
+      "ASCEND"
+    ],
+    "keywords": [
+      "地形植入",
+      "路径重写",
+      "逆流寻源"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-F-13",
+      "R-E-5",
+      "R-D-9",
+      "R-D-7",
+      "R-D-6"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 111,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 8,
+      "来源": "艺术 Art／／身体 Body",
+      "案例": "Olafur Eliasson《Riverbed》",
+      "精短标签": "地形植入｜路径重写｜逆流寻源",
+      "地点／年代": "丹麦 Louisiana Museum／2014",
+      "原型价值": "石块与真实流动的溪水占据整个美术馆南翼，原本平整的白盒子变成需要身体选择路径的河床。观众甚至可以沿水流向上寻找源头；水重新规定了人的行走方式。",
+      "主动作": "REROUTE",
+      "次动作": "ASCEND"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-8.webp",
+    "image": "images/4-8.webp",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-8.webp",
+    "actionEligible": false,
+    "sortYear": 2014,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-9",
+    "matchKey": "4-9",
+    "title": "三分一博志《The Naoshima Plan “The Water”》",
+    "description": "老屋被重新组织，并引入由地下水形成的浅池。观众可把手脚放入池中亲自感受水与风，建筑不再只是“展示水”，而让人的身体加入当地持续流动的水系统。",
+    "year": null,
+    "placeAndPeriod": "日本直岛／2019",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE",
+      "ART"
+    ],
+    "actions": [
+      "TOUCH",
+      "CONNECT"
+    ],
+    "keywords": [
+      "浅池",
+      "触觉",
+      "水的传递"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-F-6",
+      "R-F-13",
+      "R-D-8",
+      "R-D-7",
+      "R-D-6"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 112,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "建筑 Architecture／艺术 Art／",
+      "案例": "三分一博志《The Naoshima Plan “The Water”》",
+      "精短标签": "浅池｜触觉｜水的传递",
+      "地点／年代": "日本直岛／2019",
+      "原型价值": "老屋被重新组织，并引入由地下水形成的浅池。观众可把手脚放入池中亲自感受水与风，建筑不再只是“展示水”，而让人的身体加入当地持续流动的水系统。",
+      "主动作": "TOUCH",
+      "次动作": "CONNECT"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-9.jpg",
+    "image": "images/4-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-9.webp",
+    "actionEligible": false,
+    "sortYear": 2019,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-10",
+    "matchKey": "4-10",
+    "title": "丰岛美术馆 Teshima Art Museum / Matrix",
+    "description": "建筑本身像一滴巨大水滴落在地面，40×60米的无柱混凝土壳体只有两个巨大开口；水从地面细孔不断冒出、汇聚、流动。观众不是“看一个水池”，而是坐在水滴内部观看水自己形成。",
+    "year": null,
+    "placeAndPeriod": "日本丰岛／2010",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE",
+      "ART",
+      "LANDSCAPE"
+    ],
+    "actions": [
+      "GATHER",
+      "MERGE"
+    ],
+    "keywords": [
+      "水滴容器",
+      "无柱空腔",
+      "地面出水",
+      "开放边界"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-F-5",
+      "R-E-7",
+      "R-E-5",
+      "R-E-11",
+      "R-C-6"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 113,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "建筑 Architecture／艺术 Art／景观 Landscape",
+      "案例": "丰岛美术馆 Teshima Art Museum / Matrix",
+      "精短标签": "水滴容器｜无柱空腔｜地面出水｜开放边界",
+      "地点／年代": "日本丰岛／2010",
+      "原型价值": "建筑本身像一滴巨大水滴落在地面，40×60米的无柱混凝土壳体只有两个巨大开口；水从地面细孔不断冒出、汇聚、流动。观众不是“看一个水池”，而是坐在水滴内部观看水自己形成。 ",
+      "主动作": "GATHER",
+      "次动作": "MERGE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-10.jpg",
+    "image": "images/4-10.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-10.webp",
+    "actionEligible": false,
+    "sortYear": 2010,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-11",
+    "matchKey": "4-11",
+    "title": "石上纯也《Water Garden 水庭》",
+    "description": "数百棵移植树木与160多个大小不一的水池交错排列，人必须在极窄的陆地、水边和树木间穿行。传统“一个完整水池”被打碎成大量分散的小型水面单元。",
+    "year": null,
+    "placeAndPeriod": "日本那须／2018",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "FRAGMENT",
+      "NAVIGATE"
+    ],
+    "keywords": [
+      "多池",
+      "碎片化水面",
+      "穿行",
+      "景观拼贴"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-6",
+      "R-D-9",
+      "R-D-8",
+      "R-D-7",
+      "R-D-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 114,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "艺术 Art",
+      "案例": "石上纯也《Water Garden 水庭》",
+      "精短标签": "多池｜碎片化水面｜穿行｜景观拼贴",
+      "地点／年代": "日本那须／2018",
+      "原型价值": "数百棵移植树木与160多个大小不一的水池交错排列，人必须在极窄的陆地、水边和树木间穿行。传统“一个完整水池”被打碎成大量分散的小型水面单元。",
+      "主动作": "FRAGMENT ",
+      "次动作": "NAVIGATE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-11.jpg",
+    "image": "images/4-11.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-11.webp",
+    "actionEligible": false,
+    "sortYear": 2018,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-12",
+    "matchKey": "4-12",
+    "title": "MVRDV《Tainan Spring 河乐广场》",
+    "description": "原中国城商场被拆除，地下停车层反而被保留下来并转成下沉式城市水池；水位随旱雨季变化，人可以直接进入、涉水、停留。它把商业建筑的负空间重新变成“城市池底”。",
+    "year": null,
+    "placeAndPeriod": "中国台湾台南／2020",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE",
+      "EVERYDAY"
+    ],
+    "actions": [
+      "DESCEND",
+      "REUSE"
+    ],
+    "keywords": [
+      "下沉",
+      "遗址变池",
+      "季节水位",
+      "公共进入"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-3",
+      "R-D-5",
+      "R-D-4",
+      "R-D-13",
+      "R-F-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 115,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "建筑 Architecture／日常 Everyday",
+      "案例": "MVRDV《Tainan Spring 河乐广场》",
+      "精短标签": "下沉｜遗址变池｜季节水位｜公共进入",
+      "地点／年代": "中国台湾台南／2020",
+      "原型价值": "原中国城商场被拆除，地下停车层反而被保留下来并转成下沉式城市水池；水位随旱雨季变化，人可以直接进入、涉水、停留。它把商业建筑的负空间重新变成“城市池底”。 ",
+      "主动作": "DESCEND ",
+      "次动作": "REUSE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-12.jpg",
+    "image": "images/4-12.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-12.webp",
+    "actionEligible": false,
+    "sortYear": 2020,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-13",
+    "matchKey": "4-13",
+    "title": "Anish Kapoor《Descension》",
+    "description": "一个直径约26英尺的黑色水体持续旋转，所有水流都向中心漩涡坠下。普通水池的平静水平面被改造成不断向地下吸入的“洞”，使“池”从容纳空间变成不可见深度。",
+    "year": null,
+    "placeAndPeriod": "纽约版本／2017",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ART",
+      "BODY"
+    ],
+    "actions": [
+      "DESCEND",
+      "VOID"
+    ],
+    "keywords": [
+      "漩涡",
+      "中心孔洞",
+      "向下坠落",
+      "负空间"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-1",
+      "R-D-3",
+      "R-D-12",
+      "R-F-1",
+      "R-E-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 116,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 13,
+      "来源": "艺术 Art／身体 Body",
+      "案例": "Anish Kapoor《Descension》",
+      "精短标签": "漩涡｜中心孔洞｜向下坠落｜负空间",
+      "地点／年代": "纽约版本／2017",
+      "原型价值": "一个直径约26英尺的黑色水体持续旋转，所有水流都向中心漩涡坠下。普通水池的平静水平面被改造成不断向地下吸入的“洞”，使“池”从容纳空间变成不可见深度。",
+      "主动作": "DESCEND",
+      "次动作": "VOID"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-13.jpg",
+    "image": "images/4-13.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-13.webp",
+    "actionEligible": false,
+    "sortYear": 2017,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-14",
+    "matchKey": "4-14",
+    "title": "Peter Zumthor《Therme Vals》",
+    "description": "建筑由大量石块般的空间单元组成，六种不同温度与光线的池体嵌入其中。这里“池”不再是一个大厅中央的水面，而是被拆成不同温度、光、声与身体状态的空间序列。",
+    "year": null,
+    "placeAndPeriod": "瑞士瓦尔斯／1996",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "ARCHITECTURE",
+      "BODY"
+    ],
+    "actions": [
+      "IMMERSE",
+      "SEQUENCE"
+    ],
+    "keywords": [
+      "石室",
+      "温差",
+      "身体浸入",
+      "多重池体"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-5",
+      "R-F-1",
+      "R-D-9",
+      "R-D-8",
+      "R-D-7"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 117,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 14,
+      "来源": "建筑 Architecture／身体 Body",
+      "案例": "Peter Zumthor《Therme Vals》",
+      "精短标签": "石室｜温差｜身体浸入｜多重池体",
+      "地点／年代": "瑞士瓦尔斯／1996",
+      "原型价值": "建筑由大量石块般的空间单元组成，六种不同温度与光线的池体嵌入其中。这里“池”不再是一个大厅中央的水面，而是被拆成不同温度、光、声与身体状态的空间序列。",
+      "主动作": "IMMERSE ",
+      "次动作": "SEQUENCE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-14.webp",
+    "image": "images/4-14.webp",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-14.webp",
+    "actionEligible": false,
+    "sortYear": 1996,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-D-15",
+    "matchKey": "4-15",
+    "title": "Basilica Cistern 2022 更新改造",
+    "description": "更新拆除了厚重的混凝土步道，换成更轻、更通透、更贴近水面的模块化金属平台，重新露出原始地面和柱网高度。它不是改造蓄水池本身，而是通过改变人的行走高度与路线，改变我们理解巨大容器的方式。",
+    "year": null,
+    "placeAndPeriod": "伊斯坦布尔／2022",
+    "curatorialPosition": "SPATIAL TRANSFORMATION",
+    "positionNumber": 4,
+    "sourceType": [
+      "INFRASTRUCTURE",
+      "ART"
+    ],
+    "actions": [
+      "LOWER",
+      "REFRAME"
+    ],
+    "keywords": [
+      "贴近水面",
+      "轻平台",
+      "柱网穿行",
+      "重新显露深度"
+    ],
+    "weight": 2,
+    "depth": 20,
+    "relatedIds": [
+      "R-D-9",
+      "R-D-8",
+      "R-D-7",
+      "R-D-6",
+      "R-D-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 119,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 15,
+      "来源": "艺术 Art／基础设施 Infrastructure",
+      "案例": "Basilica Cistern 2022 更新改造",
+      "精短标签": "贴近水面｜轻平台｜柱网穿行｜重新显露深度",
+      "地点／年代": "伊斯坦布尔／2022",
+      "原型价值": "更新拆除了厚重的混凝土步道，换成更轻、更通透、更贴近水面的模块化金属平台，重新露出原始地面和柱网高度。它不是改造蓄水池本身，而是通过改变人的行走高度与路线，改变我们理解巨大容器的方式。",
+      "主动作": "LOWER ",
+      "次动作": "REFRAME"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "4-15.jpg",
+    "image": "images/4-15.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/4-15.webp",
+    "actionEligible": false,
+    "sortYear": 2022,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-1",
+    "matchKey": "5-1",
+    "title": "Light Well\n光井",
+    "description": "保留蓄水池容纳水的容器逻辑，只把蓄水池中的储存对象由水改成光，人的踩踏还会使光产生类似水波的扩散。",
+    "year": null,
+    "placeAndPeriod": "约2020",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "DESCEND",
+      "FILTER"
+    ],
+    "keywords": [
+      "蓄光"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-F-1",
+      "R-D-3",
+      "R-D-13",
+      "R-D-12",
+      "R-C-9"
+    ],
+    "sourceTitle": "Marjut Kauppinen / Studio Lux Nova",
+    "url": null,
+    "excelRow": 154,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 1,
+      "来源": "艺术 Art",
+      "案例": "Light Well\n光井",
+      "精短标签": "蓄光",
+      "地点／年代": "约2020",
+      "原型价值": "保留蓄水池容纳水的容器逻辑，只把蓄水池中的储存对象由水改成光，人的踩踏还会使光产生类似水波的扩散。",
+      "出处/作者": "Marjut Kauppinen / Studio Lux Nova",
+      "主动作": "DESCEND ",
+      "次动作": "FILTER ",
+      "未命名列 15": "蓄水池 → 光井"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-1.jpg",
+    "image": "images/5-1.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-1.webp",
+    "actionEligible": false,
+    "sortYear": 2020,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-2",
+    "matchKey": "5-2",
+    "title": "克里纳门",
+    "description": "水池提供连续水面和浮力，使物体能够漂浮、运动。\n保留了蓄水池“承载＋流动”的特征，漂浮瓷碗不断碰撞，使水面成为声音产生和传播的场。",
+    "year": "1997",
+    "placeAndPeriod": "1997",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "ENTER",
+      "ENCLOSE"
+    ],
+    "keywords": [
+      "蓄声",
+      "装置"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-E-4",
+      "R-F-6",
+      "R-F-2",
+      "R-D-6",
+      "R-D-2"
+    ],
+    "sourceTitle": "Céleste Boursier-Mougenot",
+    "url": null,
+    "excelRow": 155,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "艺术 Art",
+      "案例": "克里纳门",
+      "精短标签": "蓄声|装置",
+      "地点／年代": 1997,
+      "原型价值": "水池提供连续水面和浮力，使物体能够漂浮、运动。\n保留了蓄水池“承载＋流动”的特征，漂浮瓷碗不断碰撞，使水面成为声音产生和传播的场。",
+      "出处/作者": "Céleste Boursier-Mougenot",
+      "主动作": "ENTER ",
+      "次动作": "ENCLOSE ",
+      "未命名列 15": "水池→声场"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-2.jpg",
+    "image": "images/5-2.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-2.webp",
+    "actionEligible": false,
+    "sortYear": 1997,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-3",
+    "matchKey": "5-3",
+    "title": "Château d’eau : lumière mythique\n水塔：神话之光",
+    "description": "原水塔被保留，原本收集雨水的蓄水池功能转变成收集、承载光的功能，是最直接的“储水→储光”。",
+    "year": "1997",
+    "placeAndPeriod": "1997",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "REVEAL",
+      "INVERT"
+    ],
+    "keywords": [
+      "蓄光",
+      "储存"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-F-9",
+      "R-E-6",
+      "R-F-8",
+      "R-F-12",
+      "R-D-2"
+    ],
+    "sourceTitle": "Irene F. Whittome",
+    "url": null,
+    "excelRow": 156,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "艺术 Art",
+      "案例": "Château d’eau : lumière mythique\n水塔：神话之光",
+      "精短标签": "蓄光|储存",
+      "地点／年代": 1997,
+      "原型价值": "\n原水塔被保留，原本收集雨水的蓄水池功能转变成收集、承载光的功能，是最直接的“储水→储光”。",
+      "出处/作者": "Irene F. Whittome",
+      "主动作": "REVEAL ",
+      "次动作": "INVERT ",
+      "未命名列 15": "水塔→光库"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-3.jpg",
+    "image": "images/5-3.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-3.webp",
+    "actionEligible": false,
+    "sortYear": 1997,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-4",
+    "matchKey": "5-4",
+    "title": "Purple Membrane\n紫色膜",
+    "description": "原水池仍在，但作品把池上空间转化成光与雾形成的“膜”，水池的感知中心由水转移到光。",
+    "year": "2005",
+    "placeAndPeriod": "2005",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "ENCLOSE",
+      "STRETCH"
+    ],
+    "keywords": [
+      "蓄光",
+      "蓄雾"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-E-2",
+      "R-D-6",
+      "R-E-6",
+      "R-E-3",
+      "R-E-1"
+    ],
+    "sourceTitle": "Tine Bech Studio",
+    "url": null,
+    "excelRow": 157,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 4,
+      "来源": "艺术 Art",
+      "案例": "Purple Membrane\n紫色膜",
+      "精短标签": "\n蓄光 | 蓄雾",
+      "地点／年代": 2005,
+      "原型价值": "原水池仍在，但作品把池上空间转化成光与雾形成的“膜”，水池的感知中心由水转移到光。",
+      "出处/作者": "Tine Bech Studio",
+      "主动作": "ENCLOSE ",
+      "次动作": "STRETCH ",
+      "未命名列 15": "水池→光雾池"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-4.jpg",
+    "image": "images/5-4.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-4.webp",
+    "actionEligible": false,
+    "sortYear": 2005,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-5",
+    "matchKey": "5-5",
+    "title": "Random Conservatorio",
+    "description": "空游泳池原本是等待重新注水的大型容器。\n但此作品没有重新注水，而是把大量彩色玩具键盘“填入”池中，使池子的储存容量变成乐器和声音的容量。",
+    "year": "2012",
+    "placeAndPeriod": "2012",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "REROUTE",
+      "MERGE"
+    ],
+    "keywords": [
+      "蓄物",
+      "容量",
+      "储存"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-F-13",
+      "R-D-8",
+      "R-D-10",
+      "R-E-9",
+      "R-E-7"
+    ],
+    "sourceTitle": "Riccardo Benassi",
+    "url": null,
+    "excelRow": 158,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "艺术 Art",
+      "案例": "Random Conservatorio",
+      "精短标签": "蓄物|容量|储存",
+      "地点／年代": 2012,
+      "原型价值": "空游泳池原本是等待重新注水的大型容器。\n但此作品没有重新注水，而是把大量彩色玩具键盘“填入”池中，使池子的储存容量变成乐器和声音的容量。",
+      "出处/作者": "Riccardo Benassi\n",
+      "主动作": "REROUTE ",
+      "次动作": "MERGE ",
+      "未命名列 15": "水池→乐器池"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-5.jpg",
+    "image": "images/5-5.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-5.webp",
+    "actionEligible": false,
+    "sortYear": 2012,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-6",
+    "matchKey": "5-6",
+    "title": "LIFE – fluid, invisible, inaudible…\n《生命——流动的、不可见的、不可听见的……》",
+    "description": "水箱的功能是把液态水封闭在容器中。而此作品使用水箱作为容器，让其内部承载声音、雾和影像，使“液体容器”变成多感官介质容器。",
+    "year": null,
+    "placeAndPeriod": "2007/2021",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "FLOW",
+      "INVERT"
+    ],
+    "keywords": [
+      "蓄雾"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-E-3",
+      "R-F-9",
+      "R-F-3",
+      "R-F-11",
+      "R-D-2"
+    ],
+    "sourceTitle": "Ryuichi Sakamoto / Shiro Takatani",
+    "url": null,
+    "excelRow": 159,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 6,
+      "来源": "艺术 Art",
+      "案例": "LIFE – fluid, invisible, inaudible…\n《生命——流动的、不可见的、不可听见的……》",
+      "精短标签": "蓄雾",
+      "地点／年代": "2007/2021",
+      "原型价值": "水箱的功能是把液态水封闭在容器中。而此作品使用水箱作为容器，让其内部承载声音、雾和影像，使“液体容器”变成多感官介质容器。",
+      "出处/作者": "Ryuichi Sakamoto / Shiro Takatani",
+      "主动作": "FLOW ",
+      "次动作": "INVERT ",
+      "未命名列 15": "水箱→感知容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-6.jpg",
+    "image": "images/5-6.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-6.webp",
+    "actionEligible": false,
+    "sortYear": 2007,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-7",
+    "matchKey": "5-7",
+    "title": "The Pool of Memories\n记忆之池",
+    "description": "蓄水池把水集中在边界内，并允许水面暂时保存痕迹。\n参与者把故事、文字和图像投入水中，池子的“收集和保存”功能直接转译成对个人记忆的收集。",
+    "year": null,
+    "placeAndPeriod": "2022，加拿大",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "GATHER",
+      "REFLECT"
+    ],
+    "keywords": [
+      "蓄忆",
+      "储存"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-C-11",
+      "R-E-11",
+      "R-F-5",
+      "R-D-10",
+      "R-C-6"
+    ],
+    "sourceTitle": "Manjot Kaur",
+    "url": null,
+    "excelRow": 160,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "艺术 Art",
+      "案例": "\nThe Pool of Memories\n记忆之池",
+      "精短标签": "蓄忆|储存",
+      "地点／年代": "2022，加拿大",
+      "原型价值": "蓄水池把水集中在边界内，并允许水面暂时保存痕迹。\n参与者把故事、文字和图像投入水中，池子的“收集和保存”功能直接转译成对个人记忆的收集。",
+      "出处/作者": "Manjot Kaur",
+      "主动作": "GATHER ",
+      "次动作": "REFLECT ",
+      "未命名列 15": "蓄水池→记忆池"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-7.jpg",
+    "image": "images/5-7.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-7.webp",
+    "actionEligible": false,
+    "sortYear": 2022,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-8",
+    "matchKey": "5-8",
+    "title": "Splash Zone\n飞溅区",
+    "description": "蓄水池通过水体制造波纹、飞溅和水的运动。\n空池通过投影制造瀑布、水雾、折射光和声音，把“水的动态效果”转化为影像和声场。",
+    "year": "2026",
+    "placeAndPeriod": "2026",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "MOVE",
+      "DISPERSE"
+    ],
+    "keywords": [
+      "蓄影",
+      "实验"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-D-7",
+      "R-E-9",
+      "R-E-7",
+      "R-E-6",
+      "R-E-5"
+    ],
+    "sourceTitle": "Kollektiv Beton",
+    "url": null,
+    "excelRow": 161,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 8,
+      "来源": "艺术 Art",
+      "案例": "Splash Zone\n飞溅区",
+      "精短标签": "蓄影|实验",
+      "地点／年代": 2026,
+      "原型价值": "\n蓄水池通过水体制造波纹、飞溅和水的运动。\n空池通过投影制造瀑布、水雾、折射光和声音，把“水的动态效果”转化为影像和声场。",
+      "出处/作者": "Kollektiv Beton",
+      "主动作": "MOVE",
+      "次动作": "DISPERSE",
+      "未命名列 15": "水池→影像池"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-8.jpg",
+    "image": "images/5-8.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-8.webp",
+    "actionEligible": false,
+    "sortYear": 2026,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-9",
+    "matchKey": "5-9",
+    "title": "Volume Morto\n死库容",
+    "description": "库容”指蓄水池实际能够储存的空间容量。此作品在空泳池底部积累大量乒乓球，把水池原本用于储水的“库容”转换成储存物件，并用声音制造不存在的水。",
+    "year": "2015",
+    "placeAndPeriod": "2015",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "EMPTY",
+      "RETAIN"
+    ],
+    "keywords": [
+      "蓄物",
+      "实验"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-F-4",
+      "R-F-12",
+      "R-D-4",
+      "R-E-8",
+      "R-E-5"
+    ],
+    "sourceTitle": "Lenora de Barros",
+    "url": null,
+    "excelRow": 162,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "艺术 Art",
+      "案例": "Volume Morto\n死库容",
+      "精短标签": "蓄物|实验",
+      "地点／年代": 2015,
+      "原型价值": "库容”指蓄水池实际能够储存的空间容量。此作品在空泳池底部积累大量乒乓球，把水池原本用于储水的“库容”转换成储存物件，并用声音制造不存在的水。",
+      "出处/作者": "Lenora de Barros",
+      "主动作": "EMPTY",
+      "次动作": "RETAIN",
+      "未命名列 15": "水库容积→物质积存"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-9.jpg",
+    "image": "images/5-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-9.webp",
+    "actionEligible": false,
+    "sortYear": 2015,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-10",
+    "matchKey": "5-10",
+    "title": "眼眶",
+    "description": "泪液持续生成并短暂停留在眼表与眼睑边界；超过可容纳范围后才形成泪滴流出。它把“容量—阈值—溢出”缩小到身体尺度。",
+    "year": null,
+    "placeAndPeriod": "生物机制",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "BODY"
+    ],
+    "actions": [
+      "THRESHOLD",
+      "OVERFLOW"
+    ],
+    "keywords": [
+      "泪液",
+      "阈值",
+      "溢出"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-C-4",
+      "R-C-8",
+      "R-C-7",
+      "R-C-13",
+      "R-C-1"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 163,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "身体 Body",
+      "案例": "眼眶 ",
+      "精短标签": "泪液｜阈值｜溢出",
+      "地点／年代": "生物机制",
+      "原型价值": "泪液持续生成并短暂停留在眼表与眼睑边界；超过可容纳范围后才形成泪滴流出。它把“容量—阈值—溢出”缩小到身体尺度。",
+      "主动作": "THRESHOLD /",
+      "次动作": "OVERFLOW"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-10.jpg",
+    "image": "images/5-10.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-10.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-11",
+    "matchKey": "5-11",
+    "title": "Library / 图书馆",
+    "description": "分散的知识被汇集、分类和保存，形成可被检索与调用的库存。它和真实蓄水池一样，重点不是“拥有”，而是“可调用”。",
+    "year": null,
+    "placeAndPeriod": "古代至今",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "EVERYDAY"
+    ],
+    "actions": [
+      "GATHER",
+      "HOLD"
+    ],
+    "keywords": [
+      "知识",
+      "分类",
+      "长期保存"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-A-8",
+      "R-A-7",
+      "R-A-4",
+      "R-A-3",
+      "R-A-2"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 164,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "日常 Everyday",
+      "案例": "Library / 图书馆",
+      "精短标签": "知识｜分类｜长期保存",
+      "地点／年代": "古代至今",
+      "原型价值": "分散的知识被汇集、分类和保存，形成可被检索与调用的库存。它和真实蓄水池一样，重点不是“拥有”，而是“可调用”。",
+      "主动作": "GATHER",
+      "次动作": "HOLD"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-11.jpg",
+    "image": "images/5-11.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-11.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-12",
+    "matchKey": "5-12",
+    "title": "Svalbard Global Seed Vault",
+    "description": "全球种质的副本被集中保存，作为战争、灾害和系统损坏后的备份。它是“生命材料的蓄水池”。",
+    "year": null,
+    "placeAndPeriod": "挪威／2008",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "BACKUP"
+    ],
+    "keywords": [
+      "种子",
+      "备份",
+      "冗余",
+      "未来"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-E-13",
+      "R-E-11",
+      "R-F-15",
+      "R-F-11",
+      "R-C-7"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 165,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Svalbard Global Seed Vault",
+      "精短标签": "种子｜备份｜冗余｜未来",
+      "地点／年代": "挪威／2008",
+      "原型价值": "全球种质的副本被集中保存，作为战争、灾害和系统损坏后的备份。它是“生命材料的蓄水池”。",
+      "主动作": "HOLD /",
+      "次动作": " BACKUP"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-12.jpg",
+    "image": "images/5-12.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-12.webp",
+    "actionEligible": false,
+    "sortYear": 2008,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-E-13",
+    "matchKey": "5-13",
+    "title": "Hornsdale Power Reserve",
+    "description": "巨型电池把电能存下来，在电网需要时迅速释放。水池逻辑从水转成电：充入、容量、库存、放电。",
+    "year": null,
+    "placeAndPeriod": "澳大利亚／2017",
+    "curatorialPosition": "MEDIUM TRANSFORMATION",
+    "positionNumber": 5,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "电",
+      "电池",
+      "储能",
+      "调用"
+    ],
+    "weight": 2,
+    "depth": 25,
+    "relatedIds": [
+      "R-F-15",
+      "R-A-9",
+      "R-A-6",
+      "R-A-5",
+      "R-A-14"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 166,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 13,
+      "来源": "基础设施 Infrastructure",
+      "案例": "Hornsdale Power Reserve",
+      "精短标签": "电｜电池｜储能｜调用",
+      "地点／年代": "澳大利亚／2017",
+      "原型价值": "巨型电池把电能存下来，在电网需要时迅速释放。水池逻辑从水转成电：充入、容量、库存、放电。",
+      "主动作": "HOLD ",
+      "次动作": " RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "5-13.jpg",
+    "image": "images/5-13.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/5-13.webp",
+    "actionEligible": false,
+    "sortYear": 2017,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-1",
+    "matchKey": "6-1",
+    "title": "Deeper Than Sorrow\n比悲伤更深",
+    "description": "艺术家在父亲花园中一座长期干涸的旧泳池中书写个人记忆，池壁成为记忆的承载面。\n水池原本储水，干涸后反而显露出被时间隐藏的痕迹；成为承载记忆的容器。",
+    "year": null,
+    "placeAndPeriod": "2015-2016\n伊朗德黑兰",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "DESCEND",
+      "IMMERSE"
+    ],
+    "keywords": [
+      "记忆",
+      "缺席",
+      "遗忘"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-E-1",
+      "R-D-5",
+      "R-D-3",
+      "R-D-14",
+      "R-D-13"
+    ],
+    "sourceTitle": "Zai Nomura",
+    "url": null,
+    "excelRow": 200,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "一级分类": " 6观念变型——用蓄与放讨论记忆、身体和社会\n",
+      "序号": 1,
+      "来源": "艺术 Art",
+      "案例": "Deeper Than Sorrow\n比悲伤更深",
+      "精短标签": "记忆｜缺席｜遗忘",
+      "地点／年代": "2015-2016\n伊朗德黑兰",
+      "原型价值": "艺术家在父亲花园中一座长期干涸的旧泳池中书写个人记忆，池壁成为记忆的承载面。\n水池原本储水，干涸后反而显露出被时间隐藏的痕迹；成为承载记忆的容器。",
+      "出处/作者": "Zai Nomura",
+      "主动作": "DESCEND",
+      "次动作": "IMMERSE",
+      "未命名列 15": "储水池 → 记忆池"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-1.png",
+    "image": "images/6-1.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-1.webp",
+    "actionEligible": false,
+    "sortYear": 2015,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-2",
+    "matchKey": "6-2",
+    "title": "Soul Reclaim Device\n灵魂回收装置",
+    "description": "作品中逝者肖像被打印到水面上，随后图像溶解，水经过过滤后再次用于下一次打印。水既保存图像又不断抹除图像，形成与蓄水池类似的“储存—消失—再储存”的循环。",
+    "year": null,
+    "placeAndPeriod": "2018–2021，日本",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "RECLAIM",
+      "ENTER"
+    ],
+    "keywords": [
+      "记忆",
+      "消逝",
+      "循环"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-6",
+      "R-E-2",
+      "R-D-2",
+      "R-F-9",
+      "R-F-7"
+    ],
+    "sourceTitle": "Zai Nomura",
+    "url": null,
+    "excelRow": 201,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 2,
+      "来源": "艺术 Art",
+      "案例": "Soul Reclaim Device\n灵魂回收装置",
+      "精短标签": "记忆｜消逝｜循环",
+      "地点／年代": "2018–2021，日本",
+      "原型价值": "作品中逝者肖像被打印到水面上，随后图像溶解，水经过过滤后再次用于下一次打印。水既保存图像又不断抹除图像，形成与蓄水池类似的“储存—消失—再储存”的循环。",
+      "出处/作者": "Zai Nomura",
+      "主动作": "RECLAIM",
+      "次动作": "ENTER ",
+      "未命名列 15": "水储存 → 记忆循环"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-2.jpg",
+    "image": "images/6-2.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-2.webp",
+    "actionEligible": false,
+    "sortYear": 2018,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-3",
+    "matchKey": "6-3",
+    "title": "Undercurrents\n暗流",
+    "description": "蓄水池的地下空间成为声音的“蓄积层”；说话、回声、光线形成记忆不断返回的状态。",
+    "year": null,
+    "placeAndPeriod": "2026，美国休斯顿",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "FLOW",
+      "HIDE"
+    ],
+    "keywords": [
+      "回声",
+      "记忆",
+      "地下"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-9",
+      "R-F-8",
+      "R-F-11",
+      "R-E-6",
+      "R-F-7"
+    ],
+    "sourceTitle": "Rafael Lozano-Hemmer",
+    "url": null,
+    "excelRow": 202,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 3,
+      "来源": "艺术 Art",
+      "案例": "Undercurrents\n暗流",
+      "精短标签": "回声｜记忆｜地下",
+      "地点／年代": "2026，美国休斯顿",
+      "原型价值": "蓄水池的地下空间成为声音的“蓄积层”；说话、回声、光线形成记忆不断返回的状态。\n",
+      "出处/作者": "Rafael Lozano-Hemmer",
+      "主动作": "FLOW",
+      "次动作": "HIDE",
+      "未命名列 15": "储水池 → 声音容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-3.jpg",
+    "image": "images/6-3.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-3.webp",
+    "actionEligible": false,
+    "sortYear": 2026,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-4",
+    "matchKey": "6-4",
+    "title": "Time No Longer\n时间不再",
+    "description": "在地下蓄水池中播放与战争、太空、人类时间有关的影像与声音。\n巨大的地下水池被转化为一个脱离日常时间的“历史回声室”。",
+    "year": null,
+    "placeAndPeriod": "2021–2022 \n美国休斯顿",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "SHIFT",
+      "EMPTY"
+    ],
+    "keywords": [
+      "时间",
+      "历史",
+      "地下"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-12",
+      "R-F-10",
+      "R-E-9",
+      "R-D-4",
+      "R-F-9"
+    ],
+    "sourceTitle": "Anri Sala",
+    "url": null,
+    "excelRow": 203,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 4,
+      "来源": "艺术 Art",
+      "案例": "Time No Longer\n时间不再",
+      "精短标签": "时间｜历史｜地下",
+      "地点／年代": "2021–2022 \n美国休斯顿",
+      "原型价值": "在地下蓄水池中播放与战争、太空、人类时间有关的影像与声音。\n巨大的地下水池被转化为一个脱离日常时间的“历史回声室”。",
+      "出处/作者": "Anri Sala",
+      "主动作": "SHIFT",
+      "次动作": "EMPTY",
+      "未命名列 15": "蓄水空间 → 时间容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-4.jpg",
+    "image": "images/6-4.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-4.webp",
+    "actionEligible": false,
+    "sortYear": 2021,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-5",
+    "matchKey": "6-5",
+    "title": "Pool of Perspectives – 2030\n视角之池——2030",
+    "description": "一个被设定为“建筑故障”的空泳池，联系到大型国家工程、殖民历史与未来社会。\n蓄水池没有水，却留下一个巨大的“容量”；未被填满的空间成为制度失败的隐喻。",
+    "year": null,
+    "placeAndPeriod": "2025 沙迦",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "GATHER",
+      "FRAME"
+    ],
+    "keywords": [
+      "权力",
+      "失败",
+      "未来"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-E-7",
+      "R-E-11",
+      "R-D-10",
+      "R-C-6",
+      "R-C-11"
+    ],
+    "sourceTitle": "Mahmoud Khaled",
+    "url": null,
+    "excelRow": 204,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 5,
+      "来源": "艺术 Art",
+      "案例": "Pool of Perspectives – 2030\n视角之池——2030",
+      "精短标签": "权力｜失败｜未来",
+      "地点／年代": "2025 沙迦",
+      "原型价值": "一个被设定为“建筑故障”的空泳池，联系到大型国家工程、殖民历史与未来社会。\n蓄水池没有水，却留下一个巨大的“容量”；未被填满的空间成为制度失败的隐喻。",
+      "出处/作者": "Mahmoud Khaled",
+      "主动作": "GATHER",
+      "次动作": "FRAME",
+      "未命名列 15": "储水设施 → 权力容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-5.jpg",
+    "image": "images/6-5.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-5.webp",
+    "actionEligible": false,
+    "sortYear": 2025,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-6",
+    "matchKey": "6-6",
+    "title": "Meet Me at the Pool",
+    "description": "通过三个混凝土水池讨论疫情、隔离、贫困、无家可归和社会差距。游泳池原本象征休闲与富足，但作品把它转化成观察社会资源分配的空间。",
+    "year": null,
+    "placeAndPeriod": "2020–2021\n美国波特兰",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "ENTER",
+      "CONNECT"
+    ],
+    "keywords": [
+      "阶层",
+      "隔离",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-13",
+      "R-F-2",
+      "R-E-2",
+      "R-D-9",
+      "R-D-2"
+    ],
+    "sourceTitle": "Deborah Wing-Sproul",
+    "url": null,
+    "excelRow": 205,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 6,
+      "来源": "艺术 Art",
+      "案例": "Meet Me at the Pool",
+      "精短标签": "阶层｜隔离｜公共",
+      "地点／年代": "2020–2021\n美国波特兰",
+      "原型价值": "通过三个混凝土水池讨论疫情、隔离、贫困、无家可归和社会差距。游泳池原本象征休闲与富足，但作品把它转化成观察社会资源分配的空间。",
+      "出处/作者": "Deborah Wing-Sproul",
+      "主动作": "ENTER",
+      "次动作": "CONNECT",
+      "未命名列 15": "休闲水池 → 阶层容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-6.jpg",
+    "image": "images/6-6.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-6.webp",
+    "actionEligible": false,
+    "sortYear": 2020,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-7",
+    "matchKey": "6-7",
+    "title": "Trust",
+    "description": "根据艺术家童年记忆中的废弃泳池制作陶瓷装置，将泳池视作一种“陶瓷子宫”。\n水池是身体曾经进入的空间；废弃后，身体离开，留下心理记忆。",
+    "year": null,
+    "placeAndPeriod": "2016 墨西哥",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "TRUST",
+      "RELEASE"
+    ],
+    "keywords": [
+      "孤独",
+      "记忆",
+      "身体"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-15",
+      "R-E-13",
+      "R-C-8",
+      "R-C-6",
+      "R-C-5"
+    ],
+    "sourceTitle": "Jacaranda Kori",
+    "url": null,
+    "excelRow": 206,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 7,
+      "来源": "艺术 Art",
+      "案例": "Trust",
+      "精短标签": "孤独｜记忆｜身体",
+      "地点／年代": "2016 墨西哥",
+      "原型价值": "根据艺术家童年记忆中的废弃泳池制作陶瓷装置，将泳池视作一种“陶瓷子宫”。\n水池是身体曾经进入的空间；废弃后，身体离开，留下心理记忆。",
+      "出处/作者": "Jacaranda Kori",
+      "主动作": "TRUST",
+      "次动作": "RELEASE",
+      "未命名列 15": "游泳池 → 身体记忆"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-7.jpg",
+    "image": "images/6-7.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-7.webp",
+    "actionEligible": false,
+    "sortYear": 2016,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-8",
+    "matchKey": "6-8",
+    "title": "Four Masks\n四张面具",
+    "description": "装置中设置浅而空的砖池，并结合四张人物照片讨论身份和社会角色。空蓄水池提供了一个“无法填满”的空间，对应身份被规定、被隐藏的问题。",
+    "year": null,
+    "placeAndPeriod": "1992 捷克",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "HIDE",
+      "REVEAL"
+    ],
+    "keywords": [
+      "身份",
+      "社会",
+      "空缺"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-9",
+      "R-F-3",
+      "R-F-12",
+      "R-E-3",
+      "R-F-7"
+    ],
+    "sourceTitle": "作者：Milena Dopitová\n出处：Artlist Czech",
+    "url": null,
+    "excelRow": 207,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 8,
+      "来源": "艺术 Art",
+      "案例": "Four Masks\n四张面具",
+      "精短标签": "身份｜社会｜空缺",
+      "地点／年代": "1992 捷克",
+      "原型价值": "装置中设置浅而空的砖池，并结合四张人物照片讨论身份和社会角色。空蓄水池提供了一个“无法填满”的空间，对应身份被规定、被隐藏的问题。",
+      "出处/作者": "作者：Milena Dopitová\n出处：Artlist Czech",
+      "主动作": "HIDE",
+      "次动作": "REVEAL",
+      "未命名列 15": "空池 → 身份容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-8.jpg",
+    "image": "images/6-8.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-8.webp",
+    "actionEligible": false,
+    "sortYear": 1992,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-9",
+    "matchKey": "6-9",
+    "title": "Haha Real",
+    "description": "在Buffalo Bayou Cistern中以影像、声音讨论现实、虚拟世界、失去和记忆变化。\n地下蓄水池像一个与现实隔绝的心理空间，记忆在其中不断变形、消失。",
+    "year": null,
+    "placeAndPeriod": "2024 美国休斯顿",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "INVERT",
+      "REVEAL"
+    ],
+    "keywords": [
+      "记忆",
+      "地下",
+      "虚拟"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-E-3",
+      "R-F-8",
+      "R-F-3",
+      "R-F-12",
+      "R-E-6"
+    ],
+    "sourceTitle": "出处：Buffalo Bayou\n作者：Rachel Rossin",
+    "url": null,
+    "excelRow": 208,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 9,
+      "来源": "艺术 Art",
+      "案例": "Haha Real",
+      "精短标签": "记忆｜地下｜虚拟",
+      "地点／年代": "2024 美国休斯顿",
+      "原型价值": "在Buffalo Bayou Cistern中以影像、声音讨论现实、虚拟世界、失去和记忆变化。\n地下蓄水池像一个与现实隔绝的心理空间，记忆在其中不断变形、消失。",
+      "出处/作者": "出处：Buffalo Bayou\n作者：Rachel Rossin",
+      "主动作": "INVERT",
+      "次动作": "REVEAL",
+      "未命名列 15": "水池 → 心理空间"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-9.jpg",
+    "image": "images/6-9.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-9.webp",
+    "actionEligible": false,
+    "sortYear": 2024,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-10",
+    "matchKey": "6-10",
+    "title": "Spatial Chromointerference\n空间色彩干扰",
+    "description": "在巨大蓄水池中投射不断移动的色彩结构，并借助浅水形成反射。水面成为不断变化的视觉信息储存和反射界面。",
+    "year": null,
+    "placeAndPeriod": "2018–2019\n美国休斯顿",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "SHIFT",
+      "INTERFERE"
+    ],
+    "keywords": [
+      "感知",
+      "流动",
+      "空间"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-4",
+      "R-F-9",
+      "R-F-8",
+      "R-F-7",
+      "R-F-6"
+    ],
+    "sourceTitle": "作者 Carlos Cruz-Diez",
+    "url": null,
+    "excelRow": 209,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 10,
+      "来源": "艺术 Art",
+      "案例": "Spatial Chromointerference\n空间色彩干扰",
+      "精短标签": "感知｜流动｜空间",
+      "地点／年代": "2018–2019\n美国休斯顿",
+      "原型价值": "在巨大蓄水池中投射不断移动的色彩结构，并借助浅水形成反射。水面成为不断变化的视觉信息储存和反射界面。",
+      "出处/作者": "作者 Carlos Cruz-Diez",
+      "主动作": "SHIFT",
+      "次动作": "INTERFERE",
+      "未命名列 15": "水池 → 感知容器"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-10.jpg",
+    "image": "images/6-10.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-10.webp",
+    "actionEligible": false,
+    "sortYear": 2018,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-11",
+    "matchKey": "6-11",
+    "title": "Water Means Life\n水即生命",
+    "description": "为Water Tank Project创作的水塔公共艺术作品，强调水资源与生命之间的关系。原本隐藏在城市屋顶的蓄水设施被放大为公众可见的水资源议题。",
+    "year": null,
+    "placeAndPeriod": "2014 美国纽约",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "HOLD",
+      "FLOW"
+    ],
+    "keywords": [
+      "生存",
+      "资源",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-3",
+      "R-F-15",
+      "R-E-6",
+      "R-E-13",
+      "R-E-12"
+    ],
+    "sourceTitle": "作者Lorenzo Petrantoni",
+    "url": null,
+    "excelRow": 210,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 11,
+      "来源": "艺术 Art",
+      "案例": "Water Means Life\n水即生命",
+      "精短标签": "生存｜资源｜公共",
+      "地点／年代": "2014 美国纽约",
+      "原型价值": "为Water Tank Project创作的水塔公共艺术作品，强调水资源与生命之间的关系。原本隐藏在城市屋顶的蓄水设施被放大为公众可见的水资源议题。",
+      "出处/作者": "作者Lorenzo Petrantoni",
+      "主动作": "HOLD",
+      "次动作": "FLOW",
+      "未命名列 15": "水塔 → 生存意识"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-11.jpg",
+    "image": "images/6-11.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-11.webp",
+    "actionEligible": false,
+    "sortYear": 2014,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-12",
+    "matchKey": "6-12",
+    "title": "Absence of Water\n无水之处",
+    "description": "以空泳池、干涸泳池作为主要绘画对象，表现过去生活留下的痕迹。当水被抽走，蓄水池的“容量”反而被看见；空缺本身成为内容。",
+    "year": null,
+    "placeAndPeriod": "2016 美国",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "ART"
+    ],
+    "actions": [
+      "EMPTY",
+      "REVEAL"
+    ],
+    "keywords": [
+      "怀旧",
+      "耗尽"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-9",
+      "R-F-8",
+      "R-F-4",
+      "R-E-9",
+      "R-E-3"
+    ],
+    "sourceTitle": "作者Kristie Bretzke",
+    "url": null,
+    "excelRow": 211,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 12,
+      "来源": "艺术 Art",
+      "案例": "Absence of Water\n无水之处",
+      "精短标签": "怀旧｜耗尽",
+      "地点／年代": "2016 美国",
+      "原型价值": "以空泳池、干涸泳池作为主要绘画对象，表现过去生活留下的痕迹。当水被抽走，蓄水池的“容量”反而被看见；空缺本身成为内容。",
+      "出处/作者": "作者Kristie Bretzke",
+      "主动作": "EMPTY",
+      "次动作": "REVEAL"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-12.jpg",
+    "image": "images/6-12.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-12.webp",
+    "actionEligible": false,
+    "sortYear": 2016,
+    "dateSortBasis": "年代起始值，仅用于排序；原文保留",
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-13",
+    "matchKey": "6-13",
+    "title": "古罗马水利系统",
+    "description": "古罗马将水从城市之外引入城市，再通过水道、沉淀池、蓄水池和管道进行分配。水不再只是自然资源，而成为帝国组织城市、维持公共浴场并展示工程能力的基础设施。谁能控制水的来源、储存与分配，谁就拥有城市资源的支配权。",
+    "year": null,
+    "placeAndPeriod": "公元前312世纪至公元4世纪",
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "INFRASTRUCTURE"
+    ],
+    "actions": [
+      "REROUTE",
+      "CONNECT"
+    ],
+    "keywords": [
+      "权力",
+      "公共"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-6",
+      "R-E-5",
+      "R-D-9",
+      "R-D-8",
+      "R-F-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 212,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 13,
+      "来源": "基础设施 Infrastructure",
+      "案例": "古罗马水利系统",
+      "精短标签": "权力｜公共",
+      "地点／年代": "公元前312世纪至公元4世纪",
+      "原型价值": "古罗马将水从城市之外引入城市，再通过水道、沉淀池、蓄水池和管道进行分配。水不再只是自然资源，而成为帝国组织城市、维持公共浴场并展示工程能力的基础设施。谁能控制水的来源、储存与分配，谁就拥有城市资源的支配权。",
+      "主动作": "REROUTE",
+      "次动作": "CONNECT"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-13.png",
+    "image": "images/6-13.png",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-13.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-14",
+    "matchKey": "6-14",
+    "title": "安部公房《砂女》",
+    "description": "沙不断进入，人不断清理，却永远无法真正清空。它是一座“反蓄水池”：输入持续、容量有限、排空工作没有终点。",
+    "year": null,
+    "placeAndPeriod": null,
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "LITERATURE"
+    ],
+    "actions": [
+      "ACCUMULATE",
+      "PRESSURIZE"
+    ],
+    "keywords": [
+      "堆积",
+      "困住",
+      "清除",
+      "无终点"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-F-9",
+      "R-F-8",
+      "R-F-7",
+      "R-F-6",
+      "R-F-5"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 213,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 14,
+      "来源": "文学 Literature",
+      "案例": "安部公房《砂女》",
+      "精短标签": "堆积｜困住｜清除｜无终点",
+      "原型价值": "沙不断进入，人不断清理，却永远无法真正清空。它是一座“反蓄水池”：输入持续、容量有限、排空工作没有终点。",
+      "主动作": "ACCUMULATE",
+      "次动作": "PRESSURIZE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-14.jpg",
+    "image": "images/6-14.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-14.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  },
+  {
+    "id": "R-F-15",
+    "matchKey": "6-15",
+    "title": "逗号 Comma",
+    "description": "逗号不会结束一句话，只是在持续流动的语言中制造暂时停留。它和蓄水池一样，是流动过程里的“中间停顿”。",
+    "year": null,
+    "placeAndPeriod": null,
+    "curatorialPosition": "CONCEPTUAL TRANSFORMATION",
+    "positionNumber": 6,
+    "sourceType": [
+      "LANGUAGE / CONCEPT"
+    ],
+    "actions": [
+      "HOLD",
+      "RELEASE"
+    ],
+    "keywords": [
+      "暂停",
+      "未结束",
+      "连续"
+    ],
+    "weight": 2,
+    "depth": 30,
+    "relatedIds": [
+      "R-E-13",
+      "R-A-9",
+      "R-A-6",
+      "R-A-5",
+      "R-A-14"
+    ],
+    "sourceTitle": "",
+    "url": null,
+    "excelRow": 214,
+    "sheet": "工作表1",
+    "dataNotes": [],
+    "rawRow": {
+      "序号": 15,
+      "来源": "语言观念 Language / Concept",
+      "案例": "逗号 Comma",
+      "精短标签": "暂停｜未结束｜连续",
+      "原型价值": "逗号不会结束一句话，只是在持续流动的语言中制造暂时停留。它和蓄水池一样，是流动过程里的“中间停顿”。",
+      "主动作": "HOLD",
+      "次动作": "RELEASE"
+    },
+    "matchingStatus": "matched-by-user-key",
+    "imageOnly": false,
+    "imageFilename": "6-15.jpg",
+    "image": "images/6-15.jpg",
+    "encodedImage": null,
+    "thumbnail": "thumbnails/6-15.webp",
+    "actionEligible": false,
+    "sortYear": null,
+    "dateSortBasis": null,
+    "mapPosition": null,
+    "mapEvidence": []
+  }
+]

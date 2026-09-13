@@ -1,0 +1,45 @@
+{
+  "visibleImages": 85,
+  "matchedRows": 85,
+  "imageOnly": 0,
+  "excludedNoImageRows": 5,
+  "categories": {
+    "FUNCTION PROTOTYPE": 14,
+    "SPATIAL PROTOTYPE": 15,
+    "MECHANISM PROTOTYPE": 13,
+    "SPATIAL TRANSFORMATION": 15,
+    "MEDIUM TRANSFORMATION": 13,
+    "CONCEPTUAL TRANSFORMATION": 15
+  },
+  "actionEligible": 29,
+  "mapPositioned": 25,
+  "excludedRecords": [
+    {
+      "id": "R-B-4",
+      "excelRow": 21,
+      "title": "Bagh-e Shazdeh 王子花园"
+    },
+    {
+      "id": "R-B-6",
+      "excelRow": 24,
+      "title": "Abbas Abad Garden"
+    },
+    {
+      "id": "R-B-8",
+      "excelRow": 27,
+      "title": "Court of the Myrtles 桃金娘中庭"
+    },
+    {
+      "id": "R-B-13",
+      "excelRow": 32,
+      "title": "颐和园昆明湖"
+    },
+    {
+      "id": "R-B-14",
+      "excelRow": 33,
+      "title": "拙政园中部水池"
+    }
+  ],
+  "sourceWorkbook": "/Users/chenjuewang1/Desktop/蓄水池梳理.xlsx",
+  "mapping": "用户确认：文件名 a-b，a 为六类编号，b 对应 Excel 第三列序号。无文字图片仅建立编号图像档案。"
+}
